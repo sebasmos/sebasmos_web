@@ -16,15 +16,15 @@
  2081  git pull origin master
  2082  git add .
  2083  git commit -m "done"
- 2084  git push -u origin master
- 2085  cd ..
- 2086  npm install && npm run build 
- 2087  git init
- 2088  git remote add origin https://github.com/sebasmos/sebasmos.github.io.git
- 2089  git remote set-url origin https://github.com/sebasmos/sebasmos.github.io.git
- 2090  git add .
- 2091  git commit -m "done"
- 2092  git push -u origin master
- 2093  git pull
- 2094  git push origin master
+ git push -u origin master
+ cd ..
+ npm install && npm run build 
+ git init
+ git remote add origin https://github.com/sebasmos/sebasmos.github.io.git
+ git remote set-url origin https://github.com/sebasmos/sebasmos.github.io.git
+ git add .
+ git commit -m "done"
+ git push -u origin master
+ git pull
+ git push origin master
 

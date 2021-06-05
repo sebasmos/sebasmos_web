@@ -354,7 +354,7 @@ const degrees = {
         "⚡ Scoring : 84.488%, GPA: 3.56/ 4.0 ",
         "⚡ Thesis: Characterization of tachycardias and bradycardias under low-intensity movement activities.",
         "⚡ Publication: Sebastián Andrés Cajas, María Alejandra Landínez, and Diego Mauricio López. Modeling of motion artifacts on PPG signals for heart-monitoring using wearable devices, Proc. SPIE 11330, 15th International Symposium on Medical Information Processing and Analysis, 1133014 (3 January 2020);        https://doi.org/10.1117/12.2540554 ",
-        "⚡ Publication: Sebastián Cajas, Pedro Astaiza, David Santiago Garcia-Chicangana, Camilo Segura, Diego M Lopéz ECG Arrhythmia Classification Using Non-Linear Features and Convolutional Neural Networks.  https://ieeexplore.ieee.org/document/9344175",
+        "⚡ Publication: Sebastián Cajas, Pedro Astaiza, David Santiago Garcia-Chicangana, Camilo Segura and Diego M Lopéz. ECG Arrhythmia Classification Using Non-Linear Features and Convolutional Neural Networks.  https://ieeexplore.ieee.org/document/9344175",
 
       ],
       website_link: "http://www.unicauca.edu.co/versionP/",
