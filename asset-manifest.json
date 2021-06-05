@@ -1,6 +1,16 @@
 {
   "files": {
     "main.css": "/static/css/main.c7ec043a.chunk.css",
+<<<<<<< HEAD
+    "main.js": "/static/js/main.a7fbf99c.chunk.js",
+    "main.js.map": "/static/js/main.a7fbf99c.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.c149e97c.js",
+    "runtime-main.js.map": "/static/js/runtime-main.c149e97c.js.map",
+    "static/js/2.c34a4283.chunk.js": "/static/js/2.c34a4283.chunk.js",
+    "static/js/2.c34a4283.chunk.js.map": "/static/js/2.c34a4283.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.50b90e8fc9ccfab8f2dcbd409c02a9b7.js": "/precache-manifest.50b90e8fc9ccfab8f2dcbd409c02a9b7.js",
+=======
     "main.js": "/static/js/main.9aefe1fb.chunk.js",
     "main.js.map": "/static/js/main.9aefe1fb.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.c149e97c.js",
@@ -9,6 +19,7 @@
     "static/js/2.fa9a948a.chunk.js.map": "/static/js/2.fa9a948a.chunk.js.map",
     "index.html": "/index.html",
     "precache-manifest.744f6687d3b006b1d94c6ee55bd82967.js": "/precache-manifest.744f6687d3b006b1d94c6ee55bd82967.js",
+>>>>>>> 864c4a591b69043478317d72fbcf0b4c4e48fb69
     "service-worker.js": "/service-worker.js",
     "static/css/main.c7ec043a.chunk.css.map": "/static/css/main.c7ec043a.chunk.css.map",
     "static/media/index.css": "/static/media/Montserrat-Regular.ee653992.ttf",
@@ -47,6 +58,16 @@
     "static/media/stanford_logo.png": "/static/media/stanford_logo.da0e7c80.png",
     "static/media/talksCardBack.svg": "/static/media/talksCardBack.0288c5ec.svg",
     "static/media/talksCardBackAlt.svg": "/static/media/talksCardBackAlt.b48e86c9.svg",
+<<<<<<< HEAD
+    "static/media/ui_ux_design.svg": "/static/media/ui_ux_design.67a6a11c.svg",
+    "static/media/unicaucalogo.jpeg": "/static/media/unicaucalogo.c2ab99f9.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c149e97c.js",
+    "static/js/2.c34a4283.chunk.js",
+    "static/css/main.c7ec043a.chunk.css",
+    "static/js/main.a7fbf99c.chunk.js"
+=======
     "static/media/ui_ux_design.svg": "/static/media/ui_ux_design.67a6a11c.svg"
   },
   "entrypoints": [
@@ -54,5 +75,6 @@
     "static/js/2.fa9a948a.chunk.js",
     "static/css/main.c7ec043a.chunk.css",
     "static/js/main.9aefe1fb.chunk.js"
+>>>>>>> 864c4a591b69043478317d72fbcf0b4c4e48fb69
   ]
 }
