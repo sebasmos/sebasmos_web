@@ -9,7 +9,7 @@ const settings = {
 const seo = {
   title: "Sebastian's Portfolio",
   description:
-    "Passionate self-taught person who loves hardworking and technology-related projects. Love to be proactive, multithreading and a learn as much as possible.",
+    "Passionate self-taught person who loves hardworking and technology-related projects 🚀. I am multithreading and proactive person with experience in computer vision projects, deep learning and machine learning frameworks.",
   og: {
     title: "Sebastian Cajas Portfolio",
     type: "website",
@@ -23,7 +23,7 @@ const greeting = {
   logo_name: "Sebastian Cajas",
   nickname: "sebasmos",
   subTitle:
-    "Passionate self-taught person who loves hardworking and technology-related projects. Love to be proactive, multithreading and a learn as much as possible.",
+  "Passionate self-taught person who loves hardworking and technology-related projects 🚀. I am multithreading and proactive person with experience in computer vision projects, deep learning and machine learning frameworks",
   resumeLink: "",
   portfolio_repository: "https://github.com/sebasmos",
 };
@@ -61,12 +61,12 @@ const socialMediaLinks = [
 const skills = {
   data: [
     {
-      title: "Data Science & AI",
+      title: "Data Science, Computer vision & AI",
       fileName: "DataScienceImg",
       skills: [
-        "⚡ Developing highly scalable production ready models for various deeplearning and statistical use cases",
-        "⚡ Experience of working with Computer Vision and NLP projects",
-        "⚡ Complex quantitative modelling for dynamic forecasting and time series analysis",
+        "⚡ Developing highly scalable production computer vision models for various deep learning and statistical use cases",
+        "⚡ Experience of working with Computer Vision, deep learning and machine learning projects",
+        "⚡ Experience on Postgress, SQL, and Microsoft Azure, AWS and GCP",
       ],
       softwareSkills: [
         {
@@ -99,15 +99,23 @@ const skills = {
             color: "#3776AB",
           },
         },
+        {
+          skillName: "C++",
+          fontAwesomeClassname: "ion-logo-c++",
+          style: {
+            backgroundColor: "transparent",
+            color: "#3776AB",
+          },
+        },
       ],
     },
     {
       title: "Full Stack Development",
       fileName: "FullStackImg",
       skills: [
-        "⚡ Building resposive website front end using React-Redux",
-        "⚡ Developing mobile applications using Flutter, React Native and solo android apps using Kotlin",
-        "⚡ Creating application backend in Node, Express & Flask",
+        //"⚡ Building resposive website front end using React-Redux",
+        "⚡ Mobile applications using Flutter and React Native ",//and solo android apps using Kotlin",
+        "⚡ Deployment of deep learning models on mobile apps",
       ],
       softwareSkills: [
         {
@@ -165,13 +173,6 @@ const skills = {
           fontAwesomeClassname: "simple-icons:yarn",
           style: {
             color: "#2C8EBB",
-          },
-        },
-        {
-          skillName: "Gatsby",
-          fontAwesomeClassname: "simple-icons:gatsby",
-          style: {
-            color: "#663399",
           },
         },
         {
@@ -342,17 +343,44 @@ const competitiveSites = {
 const degrees = {
   degrees: [
     {
-      title: "Indian Institute of Information Technology Kurnool",
-      subtitle: "B.Tech. in Computer Engineering",
-      logo_path: "iiitk_logo.png",
-      alt_name: "IIITDM Kurnool",
-      duration: "2016 - Present",
+      title: "University of Cauca",
+      subtitle: "Electronic and Telecommunications Engineering",
+      logo_path: "unicaucalogo.jpeg",
+      alt_name: "Unicauca",
+      duration: "2014 - 2019",
       descriptions: [
-        "⚡ I have studied basic software engineering subjects like DS, Algorithms, DBMS, OS, CA, AI etc.",
-        "⚡ Apart from this, I have done courses on Deep Learning, Data Science, Cloud Computing and Full Stack Development.",
-        "⚡ I was selected for Merit cum Means Scholarship which is given to top 10% of students in college. I have received award from respected director for consistently best performance in academics.",
+        "⚡ Strongly focused on Telecommunication systems, Digital signal processing, telematics, Web/mobile development",
+        "⚡ RANKING: 3° Position.",
+        "⚡ Scoring : 84.488%, GPA: 3.56/ 4.0 ",
+        "⚡ Thesis: Characterization of tachycardias and bradycardias under low-intensity movement activities.",
+        "⚡ Publication: Sebastián Andrés Cajas, María Alejandra Landínez, and Diego Mauricio López. Modeling of motion artifacts on PPG signals for heart-monitoring using wearable devices, Proc. SPIE 11330, 15th International Symposium on Medical Information Processing and Analysis, 1133014 (3 January 2020);        https://doi.org/10.1117/12.2540554 ",
+        "⚡ Publication: Sebastián Cajas, Pedro Astaiza, David Santiago Garcia-Chicangana, Camilo Segura, Diego M Lopéz ECG Arrhythmia Classification Using Non-Linear Features and Convolutional Neural Networks.  https://ieeexplore.ieee.org/document/9344175",
+
       ],
-      website_link: "http://iiitk.ac.in",
+      website_link: "http://www.unicauca.edu.co/versionP/",
+    },
+    {
+      title: "Erasmus Mundus Joint Master degree",
+      subtitle: "Image Processing and Computer vision - IPCV EMJMD",
+      logo_path: "erasmus.jpg",
+      alt_name: "Erasmus Mundus",
+      duration: "2020 - 2022",
+      descriptions: [
+        "⚡ The Triple Master Degree in Image Processing and Computer Vision (IPVC), is a full-time two year Program with the aim to produce highly qualified specialists in areas like: ",
+        
+        "- Image Processing and Computer Vision",
+        "- Artificial Intelligence, Data Mining and Machine Learning",
+        "- Signals Processing",
+        "- Sensors and Data Fusion",
+        "- Focus on Research and Industry",
+        "- Deep learning.",
+        
+        " The curriculum, sponsored by the European Union, has been conformed by the partnership of three European Universities:",
+        "- Pázmány Péter Catholic University, Faculty of IT and Bionics, Hungary",
+        "- Autonomous University of Madrid, Spain",
+        "- University of Burdeaux, France",
+      ],
+      website_link: "http://ipcv.eu/",
     },
   ],
 };

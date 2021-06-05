@@ -11,9 +11,6 @@
  2073  git push -u origin master
  2074  git push origin master
  2075  git pull
- 2076  git pull master
- 2077  git pull origin master
- 2078  git pull origin mastewr
  2079  git pull origin master
  2080  git pull --allow-unrelated-histories origin master
  2081  git pull origin master
