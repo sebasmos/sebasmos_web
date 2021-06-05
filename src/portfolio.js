@@ -386,53 +386,74 @@ const degrees = {
 };
 
 const certifications = {
+
   certifications: [
     {
-      title: "Machine Learning",
-      subtitle: "- Andrew Ng",
-      logo_path: "stanford_logo.png",
+      title: "OpenCV AI Competition 2021 Phase 1 Winner",
+      subtitle: "-  OpenCV",
+      logo_path: "opencv.png",
       certificate_link:
-        "https://www.coursera.org/account/accomplishments/verify/22MTSSC5WDTM",
-      alt_name: "Stanford University",
-      color_code: "#8C151599",
-    },
-    {
-      title: "Deep Learning",
-      subtitle: "- Andrew Ng",
-      logo_path: "deeplearning_ai_logo.png",
-      certificate_link:
-        "https://www.coursera.org/account/accomplishments/specialization/H8CPSFXAJD2G",
-      alt_name: "deeplearning.ai",
+        "https://www.credential.net/129359c4-3c14-443f-aeff-75736589f961?key=85cfc22cc2d9a24a7d67a46892927cef9c4055de540ac4dafa19421d534920fa#gs.wbsszm",
+      alt_name: "opencv",
       color_code: "#00000099",
     },
     {
-      title: "ML on GCP",
-      subtitle: "- GCP Training",
-      logo_path: "google_logo.png",
+      title: "NASA SpaceApps Problem-Solver 2020, Las Vegas - U.S.A",
+      subtitle: "- NASA",
+      logo_path: "nasa-Logo.png",
+      certificate_link:
+        "https://drive.google.com/file/d/1qqlYLJXY9PsW7oaG1a6jGj8Xawhfs4yZ/view?usp=sharing",
+      alt_name: "NASA spaceapps",
+      color_code: "#8C152531",
+    },
+    {
+      title: "NASA local Organizer - SpaceApps Challenge 2020 in Popayan (Colombia)",
+      subtitle: "- NASA",
+      logo_path: "nasa-Logo.png",
+      certificate_link:
+        "https://drive.google.com/file/d/1_I1pDvSNdk6rT_eaCSpQOVQzpcN3PFDx/view?usp=sharing",
+      alt_name: "NASA spaceapps",
+      color_code: "#8C152531",
+    },
+    {
+      title: "Problem-Solver in NASA SpaceApss Challenge - COVID 19 ",
+      subtitle: "- NASA",
+      logo_path: "nasa-Logo.png",
+      certificate_link:
+        "https://drive.google.com/file/d/19FUMwkL3RLD64gSpQ6J8Eu9CscVpn2sO/view?usp=sharing",
+      alt_name: "NASA spaceapps",
+      color_code: "#8C152531",
+    },
+    {
+      title: "Data Science for All (DS4A)/Colombia 2.0, highly tailored program focused on Data Science and Artificial Intelligence - Sponsored by The Ministery of Information and Communication Technologies of Colombia (MinTIC) with Correlation One",
+      subtitle: "- Correlation One - MinTIC",
+      logo_path: "correlationone.png",
       certificate_link:
         "https://www.coursera.org/account/accomplishments/specialization/EB4VJARK8647",
       alt_name: "Google",
       color_code: "#0C9D5899",
     },
     {
-      title: "Data Science",
-      subtitle: "- Alex Aklson",
-      logo_path: "ibm_logo.png",
+      title: "“Introduction to Rocket and Satellite Engineering” - International Online Certificate Program ",
+      subtitle: "- Skolkovo Institute of Science and Technology ",
+      logo_path: "skoltec.png",
       certificate_link:
-        "https://www.coursera.org/account/accomplishments/specialization/PLEAPCSJBZT5",
-      alt_name: "IBM",
+        "https://drive.google.com/file/d/1NNh8uky-e_85yR0kd-WXtqAR3j_3r9lB/view?usp=sharing",
+      alt_name: "Skolkovo Institute of Science and Technology ",
       color_code: "#1F70C199",
     },
     {
-      title: "Big Data",
-      subtitle: "- Kim Akers",
-      logo_path: "microsoft_logo.png",
+      title: "Best President in the Aerospace & Electronic's Systems Society - Colombia",
+      subtitle: " AESS - IEEE",
+      logo_path: "aess.jpg",
       certificate_link:
-        "https://drive.google.com/file/d/164zKCFOsI4vGqokc-Qj-e_D00kLDHIrG/view",
-      alt_name: "Microsoft",
+        "https://drive.google.com/file/d/182Hs_0xU1GYLYYbyLUM6JWG-zBZQ1nJ1/view?usp=sharing",
+      alt_name: "AESS - IEEE",
       color_code: "#D83B0199",
     },
-    {
+    
+/**
+  {
       title: "Advanced Data Science",
       subtitle: "- Romeo Kienzler",
       logo_path: "ibm_logo.png",
@@ -495,6 +516,9 @@ const certifications = {
       alt_name: "GCP",
       color_code: "#4285F499",
     },
+
+ */
+   
   ],
 };
 

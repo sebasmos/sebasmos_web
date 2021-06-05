@@ -1,1 +1,0 @@
-{"ast":null,"code":"import getWindow from \"./getWindow.js\";\nexport default function getViewportRect(element) {\n  var win = getWindow(element);\n  return {\n    width: win.innerWidth,\n    height: win.innerHeight,\n    x: 0,\n    y: 0\n  };\n}","map":null,"metadata":{},"sourceType":"module"}
