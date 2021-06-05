@@ -1,17 +1,6 @@
 {
   "files": {
     "main.css": "/static/css/main.c7ec043a.chunk.css",
-<<<<<<< HEAD
-    "main.js": "/static/js/main.89a6ce13.chunk.js",
-    "main.js.map": "/static/js/main.89a6ce13.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.c149e97c.js",
-    "runtime-main.js.map": "/static/js/runtime-main.c149e97c.js.map",
-    "static/js/2.88a8f7fd.chunk.js": "/static/js/2.88a8f7fd.chunk.js",
-    "static/js/2.88a8f7fd.chunk.js.map": "/static/js/2.88a8f7fd.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.aafd65f54f90502684bc38e0bf053b92.js": "/precache-manifest.aafd65f54f90502684bc38e0bf053b92.js",
-=======
-<<<<<<< HEAD
     "main.js": "/static/js/main.a7fbf99c.chunk.js",
     "main.js.map": "/static/js/main.a7fbf99c.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.c149e97c.js",
@@ -20,39 +9,16 @@
     "static/js/2.c34a4283.chunk.js.map": "/static/js/2.c34a4283.chunk.js.map",
     "index.html": "/index.html",
     "precache-manifest.50b90e8fc9ccfab8f2dcbd409c02a9b7.js": "/precache-manifest.50b90e8fc9ccfab8f2dcbd409c02a9b7.js",
-=======
-    "main.js": "/static/js/main.9aefe1fb.chunk.js",
-    "main.js.map": "/static/js/main.9aefe1fb.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.c149e97c.js",
-    "runtime-main.js.map": "/static/js/runtime-main.c149e97c.js.map",
-    "static/js/2.fa9a948a.chunk.js": "/static/js/2.fa9a948a.chunk.js",
-    "static/js/2.fa9a948a.chunk.js.map": "/static/js/2.fa9a948a.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.744f6687d3b006b1d94c6ee55bd82967.js": "/precache-manifest.744f6687d3b006b1d94c6ee55bd82967.js",
->>>>>>> 864c4a591b69043478317d72fbcf0b4c4e48fb69
->>>>>>> ced23806193ad531a9305336204a130d32ddf44a
     "service-worker.js": "/service-worker.js",
     "static/css/main.c7ec043a.chunk.css.map": "/static/css/main.c7ec043a.chunk.css.map",
     "static/media/index.css": "/static/media/Montserrat-Regular.ee653992.ttf",
     "static/media/address_image.svg": "/static/media/address_image.3b021f8f.svg",
-<<<<<<< HEAD
-    "static/media/aess.jpg": "/static/media/aess.1ea920e3.jpg",
-    "static/media/animated_ashutosh.png": "/static/media/animated_ashutosh.6c8410d0.png",
-    "static/media/animated_logo.svg": "/static/media/animated_logo.52e0714e.svg",
-    "static/media/blogs_image.svg": "/static/media/blogs_image.b6b12c7d.svg",
-    "static/media/certif.jpeg": "/static/media/certif.42c2fee9.jpeg",
-    "static/media/cloud_infrastructure.svg": "/static/media/cloud_infrastructure.dfcb7a58.svg",
-    "static/media/codeInLogo.png": "/static/media/codeInLogo.b3685be8.png",
-    "static/media/contactMail.png": "/static/media/contactMail.d6d4086f.png",
-    "static/media/correlationone.png": "/static/media/correlationone.aa1a3ab0.png",
-=======
     "static/media/animated_ashutosh.png": "/static/media/animated_ashutosh.6c8410d0.png",
     "static/media/animated_logo.svg": "/static/media/animated_logo.52e0714e.svg",
     "static/media/blogs_image.svg": "/static/media/blogs_image.b6b12c7d.svg",
     "static/media/cloud_infrastructure.svg": "/static/media/cloud_infrastructure.dfcb7a58.svg",
     "static/media/codeInLogo.png": "/static/media/codeInLogo.b3685be8.png",
     "static/media/contactMail.png": "/static/media/contactMail.d6d4086f.png",
->>>>>>> ced23806193ad531a9305336204a130d32ddf44a
     "static/media/data_science.svg": "/static/media/data_science.434d2b01.svg",
     "static/media/deeplearning_ai_logo.png": "/static/media/deeplearning_ai_logo.7a9b2eb0.png",
     "static/media/developerActivity.svg": "/static/media/developerActivity.59389695.svg",
@@ -73,50 +39,29 @@
     "static/media/legato_logo.png": "/static/media/legato_logo.4ba886ba.png",
     "static/media/manOnTable.svg": "/static/media/manOnTable.52be3144.svg",
     "static/media/muffito_logo.png": "/static/media/muffito_logo.db6c1c0d.png",
-<<<<<<< HEAD
-    "static/media/nasa-Logo.png": "/static/media/nasa-Logo.b57facd1.png",
     "static/media/nptel_logo.png": "/static/media/nptel_logo.cd7077f7.png",
-    "static/media/opencv.png": "/static/media/opencv.60399d27.png",
-=======
-    "static/media/nptel_logo.png": "/static/media/nptel_logo.cd7077f7.png",
->>>>>>> ced23806193ad531a9305336204a130d32ddf44a
     "static/media/portfolio.gif": "/static/media/portfolio.6e7dc5ad.gif",
     "static/media/programmer.svg": "/static/media/programmer.c1a95f73.svg",
     "static/media/projects_image.svg": "/static/media/projects_image.f7964c6b.svg",
     "static/media/pwa.png": "/static/media/pwa.bd5f4148.png",
-<<<<<<< HEAD
+
     "static/media/skoltec.png": "/static/media/skoltec.33833b1c.png",
     "static/media/stanford_logo.png": "/static/media/stanford_logo.da0e7c80.png",
     "static/media/talksCardBack.svg": "/static/media/talksCardBack.0288c5ec.svg",
     "static/media/talksCardBackAlt.svg": "/static/media/talksCardBackAlt.b48e86c9.svg",
-=======
+
     "static/media/stanford_logo.png": "/static/media/stanford_logo.da0e7c80.png",
     "static/media/talksCardBack.svg": "/static/media/talksCardBack.0288c5ec.svg",
     "static/media/talksCardBackAlt.svg": "/static/media/talksCardBackAlt.b48e86c9.svg",
-<<<<<<< HEAD
->>>>>>> ced23806193ad531a9305336204a130d32ddf44a
     "static/media/ui_ux_design.svg": "/static/media/ui_ux_design.67a6a11c.svg",
     "static/media/unicaucalogo.jpeg": "/static/media/unicaucalogo.c2ab99f9.jpeg"
   },
   "entrypoints": [
     "static/js/runtime-main.c149e97c.js",
-<<<<<<< HEAD
-    "static/js/2.88a8f7fd.chunk.js",
-    "static/css/main.c7ec043a.chunk.css",
-    "static/js/main.89a6ce13.chunk.js"
-=======
     "static/js/2.c34a4283.chunk.js",
     "static/css/main.c7ec043a.chunk.css",
-    "static/js/main.a7fbf99c.chunk.js"
-=======
+    "static/js/main.a7fbf99c.chunk.js",
     "static/media/ui_ux_design.svg": "/static/media/ui_ux_design.67a6a11c.svg"
-  },
-  "entrypoints": [
-    "static/js/runtime-main.c149e97c.js",
-    "static/js/2.fa9a948a.chunk.js",
-    "static/css/main.c7ec043a.chunk.css",
-    "static/js/main.9aefe1fb.chunk.js"
->>>>>>> 864c4a591b69043478317d72fbcf0b4c4e48fb69
->>>>>>> ced23806193ad531a9305336204a130d32ddf44a
+  }
   ]
 }
