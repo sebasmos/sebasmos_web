@@ -1,6 +1,11 @@
 {
+<<<<<<< HEAD
+  "short_name": "sebasmos",
+  "name": "sebasmos",
+=======
   "short_name": "masterPortfolio",
   "name": "masterPortfolio",
+>>>>>>> a3c0efe7dbfaacefbc551fbe13858d40a860a742
   "icons": [
   {
    "src": "\/android-icon-36x36.png",
