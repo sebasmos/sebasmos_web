@@ -1,6 +1,6 @@
 (this.webpackJsonpsebasmos = this.webpackJsonpsebasmos || []).push([
   [0],
-  Array(29).concat([
+  Array(44).concat([
     function (e) {
       e.exports = JSON.parse(
         '{"data":[{"id":"MDExOlB1bGxSZXF1ZXN0NjI4NDc0MTgy","title":"Part1","url":"https://github.com/ChallengeNasa/Model_1_short_segmentation/pull/1","state":"OPEN","mergedBy":null,"createdAt":"2021-05-01T18:22:16Z","number":1,"changedFiles":6878,"additions":8787,"deletions":4922,"baseRepository":{"name":"Model_1_short_segmentation","url":"https://github.com/ChallengeNasa/Model_1_short_segmentation","owner":{"avatarUrl":"https://avatars.githubusercontent.com/u/83374313?v=4","login":"ChallengeNasa","url":"https://github.com/ChallengeNasa"}}},{"id":"MDExOlB1bGxSZXF1ZXN0NjE1NTcxMDYw","title":"DT","url":"https://github.com/sebasmos/Cardiolux-Unicauca_2021/pull/1","state":"OPEN","mergedBy":null,"createdAt":"2021-04-14T21:53:40Z","number":1,"changedFiles":23,"additions":652,"deletions":3,"baseRepository":{"name":"Cardiolux-Unicauca_2021","url":"https://github.com/sebasmos/Cardiolux-Unicauca_2021","owner":{"avatarUrl":"https://avatars.githubusercontent.com/u/31293221?u=3902f9f30a55419d9a346085ed5bd18d51f08fb8&v=4","login":"sebasmos","url":"https://github.com/sebasmos"}}},{"id":"MDExOlB1bGxSZXF1ZXN0NTI4MTMzNjkz","title":"Master","url":"https://github.com/sebasmos/DMML/pull/2","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars.githubusercontent.com/u/31293221?u=3902f9f30a55419d9a346085ed5bd18d51f08fb8&v=4","url":"https://github.com/sebasmos","login":"sebasmos"},"createdAt":"2020-11-26T15:06:28Z","number":2,"changedFiles":8,"additions":105,"deletions":45,"baseRepository":{"name":"DMML","url":"https://github.com/sebasmos/DMML","owner":{"avatarUrl":"https://avatars.githubusercontent.com/u/31293221?u=3902f9f30a55419d9a346085ed5bd18d51f08fb8&v=4","login":"sebasmos","url":"https://github.com/sebasmos"}}},{"id":"MDExOlB1bGxSZXF1ZXN0NTI3Mzk0ODI4","title":"Lab01","url":"https://github.com/sebasmos/BSP_PPCU/pull/3","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars.githubusercontent.com/u/31293221?u=3902f9f30a55419d9a346085ed5bd18d51f08fb8&v=4","url":"https://github.com/sebasmos","login":"sebasmos"},"createdAt":"2020-11-25T12:00:14Z","number":3,"changedFiles":0,"additions":0,"deletions":0,"baseRepository":{"name":"BSP_PPCU","url":"https://github.com/sebasmos/BSP_PPCU","owner":{"avatarUrl":"https://avatars.githubusercontent.com/u/31293221?u=3902f9f30a55419d9a346085ed5bd18d51f08fb8&v=4","login":"sebasmos","url":"https://github.com/sebasmos"}}},{"id":"MDExOlB1bGxSZXF1ZXN0NTI3Mzk0NDA1","title":"adding S2 split work","url":"https://github.com/sebasmos/BSP_PPCU/pull/2","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars.githubusercontent.com/u/31293221?u=3902f9f30a55419d9a346085ed5bd18d51f08fb8&v=4","url":"https://github.com/sebasmos","login":"sebasmos"},"createdAt":"2020-11-25T11:59:32Z","number":2,"changedFiles":11,"additions":281,"deletions":0,"baseRepository":{"name":"BSP_PPCU","url":"https://github.com/sebasmos/BSP_PPCU","owner":{"avatarUrl":"https://avatars.githubusercontent.com/u/31293221?u=3902f9f30a55419d9a346085ed5bd18d51f08fb8&v=4","login":"sebasmos","url":"https://github.com/sebasmos"}}},{"id":"MDExOlB1bGxSZXF1ZXN0NTI1MTMwMDY1","title":"Merge pull request #1 from sebasmos/master","url":"https://github.com/sebasmos/DesignPatterns/pull/2","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars.githubusercontent.com/u/31293221?u=3902f9f30a55419d9a346085ed5bd18d51f08fb8&v=4","url":"https://github.com/sebasmos","login":"sebasmos"},"createdAt":"2020-11-21T13:22:19Z","number":2,"changedFiles":0,"additions":0,"deletions":0,"baseRepository":{"name":"DesignPatterns","url":"https://github.com/sebasmos/DesignPatterns","owner":{"avatarUrl":"https://avatars.githubusercontent.com/u/31293221?u=3902f9f30a55419d9a346085ed5bd18d51f08fb8&v=4","login":"sebasmos","url":"https://github.com/sebasmos"}}},{"id":"MDExOlB1bGxSZXF1ZXN0NTI1MTI5OTY5","title":"Master","url":"https://github.com/sebasmos/DesignPatterns/pull/1","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars.githubusercontent.com/u/31293221?u=3902f9f30a55419d9a346085ed5bd18d51f08fb8&v=4","url":"https://github.com/sebasmos","login":"sebasmos"},"createdAt":"2020-11-21T13:21:23Z","number":1,"changedFiles":27,"additions":466,"deletions":10,"baseRepository":{"name":"DesignPatterns","url":"https://github.com/sebasmos/DesignPatterns","owner":{"avatarUrl":"https://avatars.githubusercontent.com/u/31293221?u=3902f9f30a55419d9a346085ed5bd18d51f08fb8&v=4","login":"sebasmos","url":"https://github.com/sebasmos"}}},{"id":"MDExOlB1bGxSZXF1ZXN0NTI0MDk3MTEz","title":"Merge pull request #4 from sebasmos/master","url":"https://github.com/sebasmos/Forest_Analysis/pull/5","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars.githubusercontent.com/u/31293221?u=3902f9f30a55419d9a346085ed5bd18d51f08fb8&v=4","url":"https://github.com/sebasmos","login":"sebasmos"},"createdAt":"2020-11-19T16:58:31Z","number":5,"changedFiles":0,"additions":0,"deletions":0,"baseRepository":{"name":"Forest_Analysis","url":"https://github.com/sebasmos/Forest_Analysis","owner":{"avatarUrl":"https://avatars.githubusercontent.com/u/31293221?u=3902f9f30a55419d9a346085ed5bd18d51f08fb8&v=4","login":"sebasmos","url":"https://github.com/sebasmos"}}},{"id":"MDExOlB1bGxSZXF1ZXN0NTI0MDkzNzAx","title":"95% acc","url":"https://github.com/sebasmos/Forest_Analysis/pull/4","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars.githubusercontent.com/u/31293221?u=3902f9f30a55419d9a346085ed5bd18d51f08fb8&v=4","url":"https://github.com/sebasmos","login":"sebasmos"},"createdAt":"2020-11-19T16:53:06Z","number":4,"changedFiles":4,"additions":175447,"deletions":51,"baseRepository":{"name":"Forest_Analysis","url":"https://github.com/sebasmos/Forest_Analysis","owner":{"avatarUrl":"https://avatars.githubusercontent.com/u/31293221?u=3902f9f30a55419d9a346085ed5bd18d51f08fb8&v=4","login":"sebasmos","url":"https://github.com/sebasmos"}}},{"id":"MDExOlB1bGxSZXF1ZXN0NTIyNjMxOTc2","title":"adding other designs","url":"https://github.com/sebasmos/BSP_PPCU/pull/1","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars.githubusercontent.com/u/31293221?u=3902f9f30a55419d9a346085ed5bd18d51f08fb8&v=4","url":"https://github.com/sebasmos","login":"sebasmos"},"createdAt":"2020-11-17T19:00:49Z","number":1,"changedFiles":64,"additions":1879,"deletions":0,"baseRepository":{"name":"BSP_PPCU","url":"https://github.com/sebasmos/BSP_PPCU","owner":{"avatarUrl":"https://avatars.githubusercontent.com/u/31293221?u=3902f9f30a55419d9a346085ed5bd18d51f08fb8&v=4","login":"sebasmos","url":"https://github.com/sebasmos"}}},{"id":"MDExOlB1bGxSZXF1ZXN0NTIyMzYxMjA1","title":"adding gitignore","url":"https://github.com/sebasmos/DMML/pull/1","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars.githubusercontent.com/u/31293221?u=3902f9f30a55419d9a346085ed5bd18d51f08fb8&v=4","url":"https://github.com/sebasmos","login":"sebasmos"},"createdAt":"2020-11-17T12:09:39Z","number":1,"changedFiles":4,"additions":1,"deletions":0,"baseRepository":{"name":"DMML","url":"https://github.com/sebasmos/DMML","owner":{"avatarUrl":"https://avatars.githubusercontent.com/u/31293221?u=3902f9f30a55419d9a346085ed5bd18d51f08fb8&v=4","login":"sebasmos","url":"https://github.com/sebasmos"}}},{"id":"MDExOlB1bGxSZXF1ZXN0NTIwMDE4NTA3","title":"adding random forest with real testing set","url":"https://github.com/sebasmos/Forest_Analysis/pull/3","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars.githubusercontent.com/u/31293221?u=3902f9f30a55419d9a346085ed5bd18d51f08fb8&v=4","url":"https://github.com/sebasmos","login":"sebasmos"},"createdAt":"2020-11-12T16:52:28Z","number":3,"changedFiles":2,"additions":600,"deletions":85,"baseRepository":{"name":"Forest_Analysis","url":"https://github.com/sebasmos/Forest_Analysis","owner":{"avatarUrl":"https://avatars.githubusercontent.com/u/31293221?u=3902f9f30a55419d9a346085ed5bd18d51f08fb8&v=4","login":"sebasmos","url":"https://github.com/sebasmos"}}},{"id":"MDExOlB1bGxSZXF1ZXN0NTE5ODgxMjk3","title":"Master","url":"https://github.com/sebasmos/Forest_Analysis/pull/2","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars.githubusercontent.com/u/31293221?u=3902f9f30a55419d9a346085ed5bd18d51f08fb8&v=4","url":"https://github.com/sebasmos","login":"sebasmos"},"createdAt":"2020-11-12T13:21:51Z","number":2,"changedFiles":2,"additions":73,"deletions":208,"baseRepository":{"name":"Forest_Analysis","url":"https://github.com/sebasmos/Forest_Analysis","owner":{"avatarUrl":"https://avatars.githubusercontent.com/u/31293221?u=3902f9f30a55419d9a346085ed5bd18d51f08fb8&v=4","login":"sebasmos","url":"https://github.com/sebasmos"}}},{"id":"MDExOlB1bGxSZXF1ZXN0NTE5ODYxOTAz","title":"improving analysis","url":"https://github.com/sebasmos/Forest_Analysis/pull/1","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars.githubusercontent.com/u/31293221?u=3902f9f30a55419d9a346085ed5bd18d51f08fb8&v=4","url":"https://github.com/sebasmos","login":"sebasmos"},"createdAt":"2020-11-12T12:47:35Z","number":1,"changedFiles":7,"additions":642,"deletions":62,"baseRepository":{"name":"Forest_Analysis","url":"https://github.com/sebasmos/Forest_Analysis","owner":{"avatarUrl":"https://avatars.githubusercontent.com/u/31293221?u=3902f9f30a55419d9a346085ed5bd18d51f08fb8&v=4","login":"sebasmos","url":"https://github.com/sebasmos"}}},{"id":"MDExOlB1bGxSZXF1ZXN0NDgwODE4NDM0","title":"Cross validation","url":"https://github.com/sebasmos/CardioLux-Physionet-2020/pull/4","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars.githubusercontent.com/u/31293221?u=3902f9f30a55419d9a346085ed5bd18d51f08fb8&v=4","url":"https://github.com/sebasmos","login":"sebasmos"},"createdAt":"2020-09-06T16:30:43Z","number":4,"changedFiles":16,"additions":957,"deletions":57,"baseRepository":{"name":"CardioLux-Physionet-2020","url":"https://github.com/sebasmos/CardioLux-Physionet-2020","owner":{"avatarUrl":"https://avatars.githubusercontent.com/u/31293221?u=3902f9f30a55419d9a346085ed5bd18d51f08fb8&v=4","login":"sebasmos","url":"https://github.com/sebasmos"}}},{"id":"MDExOlB1bGxSZXF1ZXN0NDcyMDY5ODE0","title":"adding windowing features","url":"https://github.com/sebasmos/CardioLux-Physionet-2020/pull/3","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars.githubusercontent.com/u/31293221?u=3902f9f30a55419d9a346085ed5bd18d51f08fb8&v=4","url":"https://github.com/sebasmos","login":"sebasmos"},"createdAt":"2020-08-23T03:50:54Z","number":3,"changedFiles":9,"additions":290,"deletions":6,"baseRepository":{"name":"CardioLux-Physionet-2020","url":"https://github.com/sebasmos/CardioLux-Physionet-2020","owner":{"avatarUrl":"https://avatars.githubusercontent.com/u/31293221?u=3902f9f30a55419d9a346085ed5bd18d51f08fb8&v=4","login":"sebasmos","url":"https://github.com/sebasmos"}}},{"id":"MDExOlB1bGxSZXF1ZXN0NDcyMDQ4NjA5","title":"Nn 1","url":"https://github.com/sebasmos/CardioLux-Physionet-2020/pull/2","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars.githubusercontent.com/u/31293221?u=3902f9f30a55419d9a346085ed5bd18d51f08fb8&v=4","url":"https://github.com/sebasmos","login":"sebasmos"},"createdAt":"2020-08-22T22:47:14Z","number":2,"changedFiles":6,"additions":62,"deletions":74,"baseRepository":{"name":"CardioLux-Physionet-2020","url":"https://github.com/sebasmos/CardioLux-Physionet-2020","owner":{"avatarUrl":"https://avatars.githubusercontent.com/u/31293221?u=3902f9f30a55419d9a346085ed5bd18d51f08fb8&v=4","login":"sebasmos","url":"https://github.com/sebasmos"}}},{"id":"MDExOlB1bGxSZXF1ZXN0NDcyMDQ3NTgw","title":"Nn 1","url":"https://github.com/sebasmos/CardioLux-Physionet-2020/pull/1","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars.githubusercontent.com/u/31293221?u=3902f9f30a55419d9a346085ed5bd18d51f08fb8&v=4","url":"https://github.com/sebasmos","login":"sebasmos"},"createdAt":"2020-08-22T22:33:22Z","number":1,"changedFiles":22,"additions":11608,"deletions":17,"baseRepository":{"name":"CardioLux-Physionet-2020","url":"https://github.com/sebasmos/CardioLux-Physionet-2020","owner":{"avatarUrl":"https://avatars.githubusercontent.com/u/31293221?u=3902f9f30a55419d9a346085ed5bd18d51f08fb8&v=4","login":"sebasmos","url":"https://github.com/sebasmos"}}},{"id":"MDExOlB1bGxSZXF1ZXN0NDIzOTk4NzA1","title":"Sign in with password","url":"https://github.com/sebasmos/PneumaBetta/pull/1","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars.githubusercontent.com/u/31293221?u=3902f9f30a55419d9a346085ed5bd18d51f08fb8&v=4","url":"https://github.com/sebasmos","login":"sebasmos"},"createdAt":"2020-05-27T17:19:38Z","number":1,"changedFiles":4,"additions":172,"deletions":16,"baseRepository":{"name":"PneumaBetta","url":"https://github.com/sebasmos/PneumaBetta","owner":{"avatarUrl":"https://avatars.githubusercontent.com/u/31293221?u=3902f9f30a55419d9a346085ed5bd18d51f08fb8&v=4","login":"sebasmos","url":"https://github.com/sebasmos"}}}],"open":2,"closed":0,"merged":17,"totalCount":19}'
@@ -11,78 +11,80 @@
     ,
     ,
     ,
+    ,
     function (e) {
       e.exports = JSON.parse(
         '{"data":[{"id":"MDU6SXNzdWU2OTA2OTEyNTA=","closed":true,"title":" logger.error(\'%\', 1, stack_info=True)\\r\\nMessage: \'%\'\\r\\nArguments: (1,)\\r\\n","createdAt":"2020-09-02T03:49:13Z","url":"https://github.com/spyder-ide/spyder/issues/13690","number":13690,"assignees":{"nodes":[]},"repository":{"name":"spyder","url":"https://github.com/spyder-ide/spyder","owner":{"login":"spyder-ide","avatarUrl":"https://avatars.githubusercontent.com/u/1284937?v=4","url":"https://github.com/spyder-ide"}}}],"open":0,"closed":1,"totalCount":1}'
       );
     },
+    ,
     function (e, t, a) {
       var r = {
-        "./address_image.svg": 134,
-        "./aess.jpg": 135,
-        "./ai_india.png": 136,
-        "./aiesec.jpg": 137,
-        "./althaia.jpg": 138,
-        "./animated_ashutosh.png": 139,
-        "./animated_logo.svg": 140,
-        "./blogs_image.svg": 141,
-        "./cambridge.jpg": 142,
-        "./certif.jpeg": 143,
-        "./cloud_infrastructure.svg": 144,
-        "./codeInLogo.png": 145,
-        "./codescrum.jpeg": 146,
-        "./contactMail.png": 147,
-        "./correlationone.png": 148,
-        "./coursera_logo.png": 149,
-        "./data_science.svg": 150,
-        "./deeplearning_ai_logo.png": 151,
-        "./delhivery_logo.png": 152,
-        "./developerActivity.svg": 153,
-        "./dsc_logo.png": 154,
-        "./education.svg": 155,
-        "./erasmus.jpg": 156,
-        "./europe.png": 157,
-        "./experience.svg": 158,
-        "./feelingProud.svg": 159,
-        "./freecopy_logo.png": 160,
-        "./fullstack.svg": 161,
-        "./gcp_logo.png": 162,
-        "./getup.jpeg": 163,
-        "./github_logo.png": 164,
-        "./googleAssistant.jpg": 165,
-        "./googleAssistant.svg": 166,
-        "./google_logo.png": 167,
-        "./ibm_logo.png": 168,
-        "./ieee.png": 169,
-        "./iiitk_logo.png": 170,
-        "./intel_logo.jpg": 171,
-        "./jsFramework.svg": 172,
-        "./legato_logo.png": 173,
-        "./manOnTable.svg": 174,
-        "./microsoft_logo.png": 175,
-        "./mozilla_logo.png": 176,
-        "./muffito_logo.png": 177,
-        "./nasa-Logo.png": 178,
-        "./nextuLogo.jpg": 179,
-        "./nptel_logo.png": 180,
-        "./observatorio.jpg": 181,
-        "./opencv.png": 182,
-        "./portfolio.gif": 183,
-        "./poyntelle.jpeg": 184,
-        "./programmer.svg": 185,
-        "./projects_image.svg": 186,
-        "./pwa.png": 187,
-        "./rac.png": 188,
-        "./saayaHealthLogo.png": 189,
-        "./seb.jpeg": 190,
-        "./skoltec.png": 191,
-        "./social.png": 192,
-        "./stanford_logo.png": 193,
-        "./talksCardBack.svg": 194,
-        "./talksCardBackAlt.svg": 195,
-        "./ui_ux_design.svg": 196,
-        "./unicauca.png": 197,
-        "./unicaucalogo.jpeg": 198,
+        "./address_image.svg": 161,
+        "./aess.jpg": 162,
+        "./ai_india.png": 163,
+        "./aiesec.jpg": 164,
+        "./althaia.jpg": 165,
+        "./animated_ashutosh.png": 166,
+        "./animated_logo.svg": 167,
+        "./blogs_image.svg": 168,
+        "./cambridge.jpg": 169,
+        "./certif.jpeg": 170,
+        "./cloud_infrastructure.svg": 171,
+        "./codeInLogo.png": 172,
+        "./codescrum.jpeg": 173,
+        "./contactMail.png": 174,
+        "./correlationone.png": 175,
+        "./coursera_logo.png": 176,
+        "./data_science.svg": 177,
+        "./deeplearning_ai_logo.png": 178,
+        "./delhivery_logo.png": 179,
+        "./developerActivity.svg": 180,
+        "./dsc_logo.png": 181,
+        "./education.svg": 182,
+        "./erasmus.jpg": 183,
+        "./europe.png": 184,
+        "./experience.svg": 185,
+        "./feelingProud.svg": 186,
+        "./freecopy_logo.png": 187,
+        "./fullstack.svg": 188,
+        "./gcp_logo.png": 189,
+        "./getup.jpeg": 190,
+        "./github_logo.png": 191,
+        "./googleAssistant.jpg": 192,
+        "./googleAssistant.svg": 193,
+        "./google_logo.png": 194,
+        "./ibm_logo.png": 195,
+        "./ieee.png": 196,
+        "./iiitk_logo.png": 197,
+        "./intel_logo.jpg": 198,
+        "./jsFramework.svg": 199,
+        "./legato_logo.png": 200,
+        "./manOnTable.svg": 201,
+        "./microsoft_logo.png": 202,
+        "./mozilla_logo.png": 203,
+        "./muffito_logo.png": 204,
+        "./nasa-Logo.png": 205,
+        "./nextuLogo.jpg": 206,
+        "./nptel_logo.png": 207,
+        "./observatorio.jpg": 208,
+        "./opencv.png": 209,
+        "./portfolio.gif": 210,
+        "./poyntelle.jpeg": 211,
+        "./programmer.svg": 212,
+        "./projects_image.svg": 213,
+        "./pwa.png": 214,
+        "./rac.png": 215,
+        "./saayaHealthLogo.png": 216,
+        "./seb.jpeg": 217,
+        "./skoltec.png": 218,
+        "./social.png": 219,
+        "./stanford_logo.png": 220,
+        "./talksCardBack.svg": 221,
+        "./talksCardBackAlt.svg": 222,
+        "./ui_ux_design.svg": 223,
+        "./unicauca.png": 224,
+        "./unicaucalogo.jpeg": 225,
       };
       function n(e) {
         var t = l(e);
@@ -100,8 +102,13 @@
       }),
         (n.resolve = l),
         (e.exports = n),
-        (n.id = 36);
+        (n.id = 53);
     },
+    ,
+    ,
+    ,
+    ,
+    ,
     ,
     ,
     ,
@@ -136,6 +143,13 @@
     ,
     ,
     function (e, t, a) {},
+    ,
+    ,
+    ,
+    ,
+    ,
+    ,
+    ,
     ,
     ,
     ,
@@ -171,8 +185,10 @@
     },
     ,
     ,
+    ,
+    ,
     function (e, t, a) {
-      e.exports = a(317);
+      e.exports = a(340);
     },
     ,
     ,
@@ -194,12 +210,8 @@
     ,
     ,
     ,
-    ,
-    ,
-    ,
     function (e, t, a) {},
     function (e, t, a) {},
-    ,
     function (e, t, a) {},
     function (e, t, a) {},
     ,
@@ -419,11 +431,7 @@
     function (e, t, a) {},
     function (e, t, a) {},
     function (e, t, a) {},
-    ,
     function (e, t, a) {},
-    ,
-    ,
-    ,
     ,
     ,
     ,
@@ -536,19 +544,19 @@
       a.r(t);
       var r = a(0),
         n = a.n(r),
-        l = a(17),
+        l = a(16),
         c = a.n(l),
-        s = a(332),
-        i = a(318),
-        o = a(23),
-        m = a(97),
-        d = (a(103), a(104), a(1)),
+        s = a(354),
+        i = a(341),
+        o = a(35),
+        m = a(126),
+        d = (a(134), a(135), a(1)),
         h = a(2),
-        A = a(4),
-        p = a(3),
-        f = a(11),
-        C = a(9),
-        g = (a(105), a(7)),
+        A = a(3),
+        p = a(4),
+        f = a(12),
+        C = a(31),
+        g = (a(136), a(7)),
         u = !1,
         E = {
           title: "Sebastian's Portfolio",
@@ -1086,9 +1094,8 @@
           },
           phoneSection: { title: "Phone Number", subtitle: "+57 3173308094" },
         },
-        D = a(86);
-      var H,
-        U = function () {
+        D = a(108);
+      var H = function () {
           var e, t, a;
           return n.a.createElement(
             D.a,
@@ -1130,15 +1137,15 @@
             })
           );
         },
-        F = function (e, t) {
+        U = function (e, t) {
           e.target.style.backgroundColor = t;
         },
-        P = function (e) {
+        F = function (e) {
           e.target.style.backgroundColor = "transparent";
         },
-        L = (function (e) {
-          Object(A.a)(a, e);
-          var t = Object(p.a)(a);
+        P = (function (e) {
+          Object(p.a)(a, e);
+          var t = Object(A.a)(a);
           function a() {
             return Object(d.a)(this, a), t.apply(this, arguments);
           }
@@ -1153,7 +1160,7 @@
                   return n.a.createElement(
                     g.Fade,
                     { top: !0, duration: 1e3, distance: "20px" },
-                    n.a.createElement(U, null),
+                    n.a.createElement(H, null),
                     n.a.createElement(
                       "div",
                       null,
@@ -1209,10 +1216,10 @@
                                 activeStyle: { fontWeight: "bold" },
                                 style: { color: e.text },
                                 onMouseEnter: function (t) {
-                                  return F(t, e.highlight);
+                                  return U(t, e.highlight);
                                 },
                                 onMouseOut: function (e) {
-                                  return P(e);
+                                  return F(e);
                                 },
                               },
                               "Home"
@@ -1229,10 +1236,10 @@
                                 activeStyle: { fontWeight: "bold" },
                                 style: { color: e.text },
                                 onMouseEnter: function (t) {
-                                  return F(t, e.highlight);
+                                  return U(t, e.highlight);
                                 },
                                 onMouseOut: function (e) {
-                                  return P(e);
+                                  return F(e);
                                 },
                               },
                               "Education"
@@ -1249,10 +1256,10 @@
                                 activeStyle: { fontWeight: "bold" },
                                 style: { color: e.text },
                                 onMouseEnter: function (t) {
-                                  return F(t, e.highlight);
+                                  return U(t, e.highlight);
                                 },
                                 onMouseOut: function (e) {
-                                  return P(e);
+                                  return F(e);
                                 },
                               },
                               "Experience"
@@ -1269,10 +1276,10 @@
                                 activeStyle: { fontWeight: "bold" },
                                 style: { color: e.text },
                                 onMouseEnter: function (t) {
-                                  return F(t, e.highlight);
+                                  return U(t, e.highlight);
                                 },
                                 onMouseOut: function (e) {
-                                  return P(e);
+                                  return F(e);
                                 },
                               },
                               "Projects"
@@ -1289,10 +1296,10 @@
                                 activeStyle: { fontWeight: "bold" },
                                 style: { color: e.text },
                                 onMouseEnter: function (t) {
-                                  return F(t, e.highlight);
+                                  return U(t, e.highlight);
                                 },
                                 onMouseOut: function (e) {
-                                  return P(e);
+                                  return F(e);
                                 },
                               },
                               "Open Source"
@@ -1309,10 +1316,10 @@
                                 activeStyle: { fontWeight: "bold" },
                                 style: { color: e.text },
                                 onMouseEnter: function (t) {
-                                  return F(t, e.highlight);
+                                  return U(t, e.highlight);
                                 },
                                 onMouseOut: function (e) {
-                                  return P(e);
+                                  return F(e);
                                 },
                               },
                               "Contact Me"
@@ -1328,22 +1335,30 @@
             a
           );
         })(r.Component),
-        z = (a(122), a(44)),
-        T = (a(123), a(25)),
-        R = T.c.span(
-          H ||
-            (H = Object(z.a)([
-              "\n  i {\n    background-color: ",
-              ";\n  }\n  &:hover i {\n    background-color: ",
-              ";\n    transition: 0.3s ease-in;\n  }\n",
-            ])),
-          function (e) {
-            return e.backgroundColor;
-          },
-          function (e) {
-            return e.theme.text;
-          }
+        L = (a(150), a(61)),
+        z = (a(151), a(37));
+      function T() {
+        var e = Object(L.a)([
+          "\n  i {\n    background-color: ",
+          ";\n  }\n  &:hover i {\n    background-color: ",
+          ";\n    transition: 0.3s ease-in;\n  }\n",
+        ]);
+        return (
+          (T = function () {
+            return e;
+          }),
+          e
         );
+      }
+      var R = z.c.span(
+        T(),
+        function (e) {
+          return e.backgroundColor;
+        },
+        function (e) {
+          return e.theme.text;
+        }
+      );
       function Q(e) {
         return n.a.createElement(
           "div",
@@ -1368,7 +1383,7 @@
           })
         );
       }
-      a(125);
+      a(152);
       function V(e) {
         var t = e.text,
           a = e.className,
@@ -1407,8 +1422,8 @@
         );
       }
       var G = (function (e) {
-        Object(A.a)(a, e);
-        var t = Object(p.a)(a);
+        Object(p.a)(a, e);
+        var t = Object(A.a)(a);
         function a() {
           return Object(d.a)(this, a), t.apply(this, arguments);
         }
@@ -1886,12 +1901,12 @@
           )
         );
       }
-      a(70), a(126);
-      var J = a(330),
-        q = a(328),
+      a(92), a(153);
+      var J = a(353),
+        q = a(355),
         W = (function (e) {
-          Object(A.a)(a, e);
-          var t = Object(p.a)(a);
+          Object(p.a)(a, e);
+          var t = Object(A.a)(a);
           function a() {
             return Object(d.a)(this, a), t.apply(this, arguments);
           }
@@ -1946,8 +1961,8 @@
           );
         })(n.a.Component),
         Y = (function (e) {
-          Object(A.a)(a, e);
-          var t = Object(p.a)(a);
+          Object(p.a)(a, e);
+          var t = Object(A.a)(a);
           function a() {
             return Object(d.a)(this, a), t.apply(this, arguments);
           }
@@ -2334,8 +2349,8 @@
           );
         })(r.Component),
         K = (function (e) {
-          Object(A.a)(a, e);
-          var t = Object(p.a)(a);
+          Object(p.a)(a, e);
+          var t = Object(A.a)(a);
           function a() {
             return Object(d.a)(this, a), t.apply(this, arguments);
           }
@@ -2645,8 +2660,8 @@
           );
         })(r.Component),
         _ = (function (e) {
-          Object(A.a)(a, e);
-          var t = Object(p.a)(a);
+          Object(p.a)(a, e);
+          var t = Object(A.a)(a);
           function a() {
             return Object(d.a)(this, a), t.apply(this, arguments);
           }
@@ -3019,8 +3034,8 @@
           );
         })(r.Component),
         $ = (function (e) {
-          Object(A.a)(a, e);
-          var t = Object(p.a)(a);
+          Object(p.a)(a, e);
+          var t = Object(A.a)(a);
           function a() {
             return Object(d.a)(this, a), t.apply(this, arguments);
           }
@@ -4240,8 +4255,8 @@
           : n.a.createElement($, { theme: e.theme });
       }
       var te = (function (e) {
-        Object(A.a)(a, e);
-        var t = Object(p.a)(a);
+        Object(p.a)(a, e);
+        var t = Object(A.a)(a);
         function a() {
           return Object(d.a)(this, a), t.apply(this, arguments);
         }
@@ -4339,7 +4354,7 @@
           n.a.createElement(te, { theme: t })
         );
       }
-      a(128);
+      a(155);
       function re(e) {
         return n.a.createElement(
           "div",
@@ -4361,7 +4376,7 @@
           )
         );
       }
-      a(129);
+      a(156);
       function ne(e) {
         var t = e.theme;
         window.onscroll = function () {
@@ -4411,8 +4426,8 @@
         );
       }
       var le = (function (e) {
-          Object(A.a)(a, e);
-          var t = Object(p.a)(a);
+          Object(p.a)(a, e);
+          var t = Object(A.a)(a);
           function a() {
             return Object(d.a)(this, a), t.apply(this, arguments);
           }
@@ -4426,7 +4441,7 @@
                     n.a.createElement(
                       "div",
                       null,
-                      n.a.createElement(L, { theme: this.props.theme }),
+                      n.a.createElement(P, { theme: this.props.theme }),
                       n.a.createElement(X, { theme: this.props.theme }),
                       n.a.createElement(ae, { theme: this.props.theme }),
                       n.a.createElement(re, { theme: this.props.theme }),
@@ -4440,11 +4455,11 @@
           );
         })(r.Component),
         ce =
-          (a(130),
-          a(131),
+          (a(157),
+          a(158),
           (function (e) {
-            Object(A.a)(a, e);
-            var t = Object(p.a)(a);
+            Object(p.a)(a, e);
+            var t = Object(A.a)(a);
             function a() {
               return Object(d.a)(this, a), t.apply(this, arguments);
             }
@@ -4705,8 +4720,8 @@
         );
       }
       var ie = (function (e) {
-          Object(A.a)(a, e);
-          var t = Object(p.a)(a);
+          Object(p.a)(a, e);
+          var t = Object(A.a)(a);
           function a(e) {
             var r;
             return (
@@ -4745,11 +4760,11 @@
           );
         })(r.Component),
         oe =
-          (a(132),
-          a(133),
+          (a(159),
+          a(160),
           (function (e) {
-            Object(A.a)(r, e);
-            var t = Object(p.a)(r);
+            Object(p.a)(r, e);
+            var t = Object(A.a)(r);
             function r() {
               return Object(d.a)(this, r), t.apply(this, arguments);
             }
@@ -4775,7 +4790,7 @@
                               maxHeight: "100%",
                               transform: "scale(50%, 50%)",
                             },
-                            src: a(36)("./".concat(e.logo_path)),
+                            src: a(53)("./".concat(e.logo_path)),
                             alt: e.alt_name,
                           })
                         )
@@ -4872,8 +4887,8 @@
             );
           })(r.Component)),
         me = (function (e) {
-          Object(A.a)(a, e);
-          var t = Object(p.a)(a);
+          Object(p.a)(a, e);
+          var t = Object(A.a)(a);
           function a() {
             return Object(d.a)(this, a), t.apply(this, arguments);
           }
@@ -4917,11 +4932,11 @@
           );
         })(r.Component),
         de =
-          (a(199),
-          a(200),
+          (a(226),
+          a(227),
           (function (e) {
-            Object(A.a)(r, e);
-            var t = Object(p.a)(r);
+            Object(p.a)(r, e);
+            var t = Object(A.a)(r);
             function r() {
               return Object(d.a)(this, r), t.apply(this, arguments);
             }
@@ -4959,7 +4974,7 @@
                               },
                               n.a.createElement("img", {
                                 className: "logo_img",
-                                src: a(36)("./".concat(e.logo_path)),
+                                src: a(53)("./".concat(e.logo_path)),
                                 alt: e.alt_name,
                               })
                             ),
@@ -5006,8 +5021,8 @@
             );
           })(r.Component)),
         he = (function (e) {
-          Object(A.a)(a, e);
-          var t = Object(p.a)(a);
+          Object(p.a)(a, e);
+          var t = Object(A.a)(a);
           function a() {
             return Object(d.a)(this, a), t.apply(this, arguments);
           }
@@ -5054,11 +5069,11 @@
           );
         })(r.Component),
         Ae =
-          (a(201),
+          (a(228),
           n.a.Component,
           (function (e) {
-            Object(A.a)(a, e);
-            var t = Object(p.a)(a);
+            Object(p.a)(a, e);
+            var t = Object(A.a)(a);
             function a() {
               return Object(d.a)(this, a), t.apply(this, arguments);
             }
@@ -5389,10 +5404,10 @@
             );
           })(r.Component)),
         pe =
-          (a(202),
+          (a(229),
           (function (e) {
-            Object(A.a)(a, e);
-            var t = Object(p.a)(a);
+            Object(p.a)(a, e);
+            var t = Object(A.a)(a);
             function a() {
               return Object(d.a)(this, a), t.apply(this, arguments);
             }
@@ -5405,7 +5420,7 @@
                     return n.a.createElement(
                       "div",
                       { className: "education-main" },
-                      n.a.createElement(L, { theme: this.props.theme }),
+                      n.a.createElement(P, { theme: this.props.theme }),
                       n.a.createElement(
                         "div",
                         { className: "basic-education" },
@@ -5456,10 +5471,10 @@
             );
           })(r.Component)),
         fe =
-          (a(203),
+          (a(230),
           (function (e) {
-            Object(A.a)(r, e);
-            var t = Object(p.a)(r);
+            Object(p.a)(r, e);
+            var t = Object(A.a)(r);
             function r() {
               return Object(d.a)(this, r), t.apply(this, arguments);
             }
@@ -5481,7 +5496,7 @@
                         { className: "experience-card-logo-div" },
                         n.a.createElement("img", {
                           className: "experience-card-logo",
-                          src: a(36)("./".concat(e.logo_path)),
+                          src: a(53)("./".concat(e.logo_path)),
                           alt: "",
                         })
                       ),
@@ -5556,11 +5571,11 @@
               r
             );
           })(r.Component)),
-        Ce = (a(204), a(333)),
-        ge = a(331),
+        Ce = (a(231), a(356)),
+        ge = a(352),
         ue = (function (e) {
-          Object(A.a)(a, e);
-          var t = Object(p.a)(a);
+          Object(p.a)(a, e);
+          var t = Object(A.a)(a);
           function a() {
             return Object(d.a)(this, a), t.apply(this, arguments);
           }
@@ -5606,10 +5621,10 @@
           );
         })(r.Component),
         Ee =
-          (a(206),
+          (a(232),
           (function (e) {
-            Object(A.a)(a, e);
-            var t = Object(p.a)(a);
+            Object(p.a)(a, e);
+            var t = Object(A.a)(a);
             function a() {
               return Object(d.a)(this, a), t.apply(this, arguments);
             }
@@ -6056,8 +6071,8 @@
             );
           })(r.Component)),
         be = (function (e) {
-          Object(A.a)(a, e);
-          var t = Object(p.a)(a);
+          Object(p.a)(a, e);
+          var t = Object(A.a)(a);
           function a() {
             return Object(d.a)(this, a), t.apply(this, arguments);
           }
@@ -6070,7 +6085,7 @@
                   return n.a.createElement(
                     "div",
                     { className: "experience-main" },
-                    n.a.createElement(L, { theme: e }),
+                    n.a.createElement(P, { theme: e }),
                     n.a.createElement(
                       "div",
                       { className: "basic-experience" },
@@ -6130,11 +6145,11 @@
             a
           );
         })(r.Component),
-        ye = a(45),
-        ve = (a(301), a(29)),
+        ye = a(67),
+        ve = (a(324), a(44)),
         xe = (function (e) {
-          Object(A.a)(a, e);
-          var t = Object(p.a)(a);
+          Object(p.a)(a, e);
+          var t = Object(A.a)(a);
           function a() {
             return Object(d.a)(this, a), t.apply(this, arguments);
           }
@@ -6169,7 +6184,7 @@
                         "Pull Request Distribution"
                       )
                     ),
-                    n.a.createElement(ye.Doughnut, {
+                    n.a.createElement(ye.a, {
                       data: e,
                       options: {
                         padding: "0",
@@ -6186,10 +6201,10 @@
             a
           );
         })(r.Component),
-        Me = (a(302), a(35)),
+        Me = (a(325), a(51)),
         we = (function (e) {
-          Object(A.a)(a, e);
-          var t = Object(p.a)(a);
+          Object(p.a)(a, e);
+          var t = Object(A.a)(a);
           function a() {
             return Object(d.a)(this, a), t.apply(this, arguments);
           }
@@ -6220,7 +6235,7 @@
                         "Issue Distribution"
                       )
                     ),
-                    n.a.createElement(ye.Doughnut, {
+                    n.a.createElement(ye.a, {
                       data: e,
                       options: {
                         margin: "0",
@@ -6238,10 +6253,10 @@
           );
         })(r.Component),
         ke =
-          (a(303),
+          (a(326),
           (function (e) {
-            Object(A.a)(a, e);
-            var t = Object(p.a)(a);
+            Object(p.a)(a, e);
+            var t = Object(A.a)(a);
             function a() {
               return Object(d.a)(this, a), t.apply(this, arguments);
             }
@@ -6284,11 +6299,11 @@
             );
           })(r.Component)),
         Ze =
-          (a(304),
-          a(305),
+          (a(327),
+          a(328),
           (function (e) {
-            Object(A.a)(a, e);
-            var t = Object(p.a)(a);
+            Object(p.a)(a, e);
+            var t = Object(A.a)(a);
             function a() {
               return Object(d.a)(this, a), t.apply(this, arguments);
             }
@@ -6342,10 +6357,10 @@
               a
             );
           })(r.Component)),
-        Ne = a(94),
+        Ne = a(123),
         je = (function (e) {
-          Object(A.a)(a, e);
-          var t = Object(p.a)(a);
+          Object(p.a)(a, e);
+          var t = Object(A.a)(a);
           function a() {
             return Object(d.a)(this, a), t.apply(this, arguments);
           }
@@ -6383,11 +6398,11 @@
           );
         })(r.Component),
         Oe =
-          (a(306),
-          a(307),
+          (a(329),
+          a(330),
           (function (e) {
-            Object(A.a)(a, e);
-            var t = Object(p.a)(a);
+            Object(p.a)(a, e);
+            var t = Object(A.a)(a);
             function a() {
               return Object(d.a)(this, a), t.apply(this, arguments);
             }
@@ -6595,8 +6610,8 @@
             );
           })(r.Component)),
         Se = (function (e) {
-          Object(A.a)(a, e);
-          var t = Object(p.a)(a);
+          Object(p.a)(a, e);
+          var t = Object(A.a)(a);
           function a() {
             return Object(d.a)(this, a), t.apply(this, arguments);
           }
@@ -6640,11 +6655,11 @@
           );
         })(r.Component),
         Ie =
-          (a(308),
-          a(309),
+          (a(331),
+          a(332),
           (function (e) {
-            Object(A.a)(a, e);
-            var t = Object(p.a)(a);
+            Object(p.a)(a, e);
+            var t = Object(A.a)(a);
             function a() {
               return Object(d.a)(this, a), t.apply(this, arguments);
             }
@@ -6809,8 +6824,8 @@
             );
           })(r.Component)),
         Be = (function (e) {
-          Object(A.a)(a, e);
-          var t = Object(p.a)(a);
+          Object(p.a)(a, e);
+          var t = Object(A.a)(a);
           function a() {
             return Object(d.a)(this, a), t.apply(this, arguments);
           }
@@ -6854,10 +6869,10 @@
           );
         })(r.Component),
         De =
-          (a(310),
+          (a(333),
           (function (e) {
-            Object(A.a)(a, e);
-            var t = Object(p.a)(a);
+            Object(p.a)(a, e);
+            var t = Object(A.a)(a);
             function a() {
               return Object(d.a)(this, a), t.apply(this, arguments);
             }
@@ -6869,7 +6884,7 @@
                     return n.a.createElement(
                       "div",
                       { className: "opensource-main" },
-                      n.a.createElement(L, { theme: this.props.theme }),
+                      n.a.createElement(P, { theme: this.props.theme }),
                       n.a.createElement(je, { theme: this.props.theme }),
                       n.a.createElement(ke, { theme: this.props.theme }),
                       n.a.createElement(Se, { theme: this.props.theme }),
@@ -6889,8 +6904,8 @@
         He =
           (r.Component,
           (function (e) {
-            Object(A.a)(a, e);
-            var t = Object(p.a)(a);
+            Object(p.a)(a, e);
+            var t = Object(A.a)(a);
             function a() {
               return Object(d.a)(this, a), t.apply(this, arguments);
             }
@@ -7143,12 +7158,12 @@
               a
             );
           })(r.Component)),
-        Ue = (a(311), B.contactSection),
+        Ue = (a(334), B.contactSection),
         Fe = B.addressSection,
         Pe = B.phoneSection,
         Le = (function (e) {
-          Object(A.a)(r, e);
-          var t = Object(p.a)(r);
+          Object(p.a)(r, e);
+          var t = Object(A.a)(r);
           function r() {
             return Object(d.a)(this, r), t.apply(this, arguments);
           }
@@ -7161,7 +7176,7 @@
                   return n.a.createElement(
                     "div",
                     { className: "contact-main" },
-                    n.a.createElement(L, { theme: e }),
+                    n.a.createElement(P, { theme: e }),
                     n.a.createElement(
                       "div",
                       { className: "basic-contact" },
@@ -7175,7 +7190,7 @@
                             "div",
                             { className: "contact-heading-img-div" },
                             n.a.createElement("img", {
-                              src: a(36)("./".concat(Ue.profile_image_path)),
+                              src: a(53)("./".concat(Ue.profile_image_path)),
                               alt: "",
                             })
                           ),
@@ -7288,10 +7303,10 @@
           );
         })(r.Component),
         ze =
-          (a(312),
+          (a(335),
           (function (e) {
-            Object(A.a)(a, e);
-            var t = Object(p.a)(a);
+            Object(p.a)(a, e);
+            var t = Object(A.a)(a);
             function a() {
               return Object(d.a)(this, a), t.apply(this, arguments);
             }
@@ -7344,7 +7359,7 @@
               a
             );
           })(r.Component));
-      a(313);
+      a(336);
       function Te(e) {
         var t = e.repo,
           a = e.theme;
@@ -7416,13 +7431,12 @@
           )
         );
       }
-      var Re,
-        Qe = a(95),
-        Ve =
-          (a(314),
+      var Re = a(124),
+        Qe =
+          (a(337),
           (function (e) {
-            Object(A.a)(a, e);
-            var t = Object(p.a)(a);
+            Object(p.a)(a, e);
+            var t = Object(A.a)(a);
             function a() {
               return Object(d.a)(this, a), t.apply(this, arguments);
             }
@@ -8117,9 +8131,9 @@
               a
             );
           })(r.Component)),
-        Ge = (function (e) {
-          Object(A.a)(a, e);
-          var t = Object(p.a)(a);
+        Ve = (function (e) {
+          Object(p.a)(a, e);
+          var t = Object(A.a)(a);
           function a() {
             return Object(d.a)(this, a), t.apply(this, arguments);
           }
@@ -8132,7 +8146,7 @@
                   return n.a.createElement(
                     "div",
                     { className: "projects-main" },
-                    n.a.createElement(L, { theme: e }),
+                    n.a.createElement(P, { theme: e }),
                     n.a.createElement(
                       "div",
                       { className: "basic-projects" },
@@ -8145,7 +8159,7 @@
                           n.a.createElement(
                             "div",
                             { className: "projects-heading-img-div" },
-                            n.a.createElement(Ve, { theme: e })
+                            n.a.createElement(Qe, { theme: e })
                           ),
                           n.a.createElement(
                             "div",
@@ -8174,7 +8188,7 @@
                     n.a.createElement(
                       "div",
                       { className: "repo-cards-div-main" },
-                      Qe.data.map(function (t) {
+                      Re.data.map(function (t) {
                         return n.a.createElement(Te, { repo: t, theme: e });
                       })
                     ),
@@ -8197,9 +8211,9 @@
             a
           );
         })(r.Component),
-        Xe = (function (e) {
-          Object(A.a)(a, e);
-          var t = Object(p.a)(a);
+        Ge = (function (e) {
+          Object(p.a)(a, e);
+          var t = Object(A.a)(a);
           function a() {
             return Object(d.a)(this, a), t.apply(this, arguments);
           }
@@ -8305,7 +8319,7 @@
                                 path: "/projects",
                                 render: function (t) {
                                   return n.a.createElement(
-                                    Ge,
+                                    Ve,
                                     Object.assign({}, t, {
                                       theme: e.props.theme,
                                     })
@@ -8396,7 +8410,7 @@
                                 path: "/projects",
                                 render: function (t) {
                                   return n.a.createElement(
-                                    Ge,
+                                    Ve,
                                     Object.assign({}, t, {
                                       theme: e.props.theme,
                                     })
@@ -8413,7 +8427,7 @@
             a
           );
         })(r.Component),
-        Je = {
+        Xe = {
           body: "#E5E5E5",
           text: "#14213d",
           highlight: "#ffffff",
@@ -8423,30 +8437,38 @@
           compImgHighlight: "#E6E6E6",
           jacketColor: "#8d99ae",
           headerColor: "#fca31177",
-        },
-        qe = Object(T.b)(
-          Re ||
-            (Re = Object(z.a)([
-              "\n  *,\n  *::after,\n  *::before {\n    box-sizing: border-box;\n  }\n\n  body {\n    align-items: center;\n    background: ",
-              ";\n    color: ",
-              ";\n    display: flex;\n    // flex-direction: column;\n    // justify-content: center;\n    // height: 100vh;\n    // margin: 0;\n    // padding: 0;\n    font-family: BlinkMacSystemFont, -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;\n    transition: all 0.25s linear;\n  }",
-            ])),
-          function (e) {
-            return e.theme.body;
-          },
-          function (e) {
-            return e.theme.text;
-          }
+        };
+      function Je() {
+        var e = Object(L.a)([
+          "\n  *,\n  *::after,\n  *::before {\n    box-sizing: border-box;\n  }\n\n  body {\n    align-items: center;\n    background: ",
+          ";\n    color: ",
+          ";\n    display: flex;\n    // flex-direction: column;\n    // justify-content: center;\n    // height: 100vh;\n    // margin: 0;\n    // padding: 0;\n    font-family: BlinkMacSystemFont, -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;\n    transition: all 0.25s linear;\n  }",
+        ]);
+        return (
+          (Je = function () {
+            return e;
+          }),
+          e
         );
+      }
+      var qe = Object(z.b)(
+        Je(),
+        function (e) {
+          return e.theme.body;
+        },
+        function (e) {
+          return e.theme.text;
+        }
+      );
       var We = function () {
         return n.a.createElement(
-          T.a,
-          { theme: Je },
+          z.a,
+          { theme: Xe },
           n.a.createElement(
             n.a.Fragment,
             null,
             n.a.createElement(qe, null),
-            n.a.createElement("div", null, n.a.createElement(Xe, { theme: Je }))
+            n.a.createElement("div", null, n.a.createElement(Ge, { theme: Xe }))
           )
         );
       };
@@ -8457,7 +8479,7 @@
             /^127(?:\.(?:25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)){3}$/
           )
       );
-      a(315);
+      a(338);
       var Ye = new m.a();
       c.a.render(
         n.a.createElement(
@@ -8473,6 +8495,6 @@
           });
     },
   ]),
-  [[98, 1, 2]],
+  [[129, 1, 2]],
 ]);
-//# sourceMappingURL=main.2497ffdb.chunk.js.map
+//# sourceMappingURL=main.0761bcb3.chunk.js.map
