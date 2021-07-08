@@ -2,6 +2,10 @@
  git commit -m ".2"
  git remote add origin https://github.com/sebasmos/sebasmos.github.io.git
  git push -u origin master
+ 
+
+ Tru to run only this:
+ -----------------
  npm install && npm run build 
  cd build/
  git init
@@ -18,8 +22,9 @@
  git commit -m "done"
  git push -u origin master
  cd ..
+ --------------------
 
- 
+
  npm install && npm run build 
  git init
  git remote add origin https://github.com/sebasmos/sebasmos.github.io.git
