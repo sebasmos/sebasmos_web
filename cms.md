@@ -1,20 +1,35 @@
-### For full deployment run the following commands, but intend to avoid `git init`
+
+## For full deployment run the following commands, but intend to avoid `git init`
 
 git remote remove origin
 rm -rf .git
 npm install && npm run build
 
-#### Then we need to deploy the website by posting the `build/` folder on github
 cd build/
 git init
-git remote add origin https://github.com/sebasmos/sebasmos.github.io.git
+git remote add origin https://github.com/sebasmos/sebasmos.github.io
 git add .
 git commit -m "deploying"
+git push -u origin master
+--end..
 git pull origin master
 git pull --allow-unrelated-histories origin master
 git pull origin master
 
----
+#### Updating info: 
+git clone https://github.com/sebasmos/sebasmos_web.github.io
+npm install && npm run build
+npm start or npm run start 
+
+### pushing changes onto storage repository: 
+git add .
+git commit -m "updating"
+git push -u origin master 
+git pull origin master
+git pull --allow-unrelated-histories origin master
+git pull origin master
+
+-----end-------------------------------
 
 npm install && npm run build # update index.html & manifest
 cd build/
