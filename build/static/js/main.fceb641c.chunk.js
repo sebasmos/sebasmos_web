@@ -3,7 +3,7 @@
   Array(44).concat([
     function (e) {
       e.exports = JSON.parse(
-        '{"data":[{"id":"MDExOlB1bGxSZXF1ZXN0NjI4NDc0MTgy","title":"Part1","url":"https://github.com/ChallengeNasa/Model_1_short_segmentation/pull/1","state":"OPEN","mergedBy":null,"createdAt":"2021-05-01T18:22:16Z","number":1,"changedFiles":6878,"additions":8787,"deletions":4922,"baseRepository":{"name":"Model_1_short_segmentation","url":"https://github.com/ChallengeNasa/Model_1_short_segmentation","owner":{"avatarUrl":"https://avatars.githubusercontent.com/u/83374313?v=4","login":"ChallengeNasa","url":"https://github.com/ChallengeNasa"}}},{"id":"MDExOlB1bGxSZXF1ZXN0NjE1NTcxMDYw","title":"DT","url":"https://github.com/sebasmos/Cardiolux-Unicauca_2021/pull/1","state":"OPEN","mergedBy":null,"createdAt":"2021-04-14T21:53:40Z","number":1,"changedFiles":23,"additions":652,"deletions":3,"baseRepository":{"name":"Cardiolux-Unicauca_2021","url":"https://github.com/sebasmos/Cardiolux-Unicauca_2021","owner":{"avatarUrl":"https://avatars.githubusercontent.com/u/31293221?u=3902f9f30a55419d9a346085ed5bd18d51f08fb8&v=4","login":"sebasmos","url":"https://github.com/sebasmos"}}},{"id":"MDExOlB1bGxSZXF1ZXN0NTI4MTMzNjkz","title":"Master","url":"https://github.com/sebasmos/DMML/pull/2","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars.githubusercontent.com/u/31293221?u=3902f9f30a55419d9a346085ed5bd18d51f08fb8&v=4","url":"https://github.com/sebasmos","login":"sebasmos"},"createdAt":"2020-11-26T15:06:28Z","number":2,"changedFiles":8,"additions":105,"deletions":45,"baseRepository":{"name":"DMML","url":"https://github.com/sebasmos/DMML","owner":{"avatarUrl":"https://avatars.githubusercontent.com/u/31293221?u=3902f9f30a55419d9a346085ed5bd18d51f08fb8&v=4","login":"sebasmos","url":"https://github.com/sebasmos"}}},{"id":"MDExOlB1bGxSZXF1ZXN0NTI3Mzk0ODI4","title":"Lab01","url":"https://github.com/sebasmos/BSP_PPCU/pull/3","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars.githubusercontent.com/u/31293221?u=3902f9f30a55419d9a346085ed5bd18d51f08fb8&v=4","url":"https://github.com/sebasmos","login":"sebasmos"},"createdAt":"2020-11-25T12:00:14Z","number":3,"changedFiles":0,"additions":0,"deletions":0,"baseRepository":{"name":"BSP_PPCU","url":"https://github.com/sebasmos/BSP_PPCU","owner":{"avatarUrl":"https://avatars.githubusercontent.com/u/31293221?u=3902f9f30a55419d9a346085ed5bd18d51f08fb8&v=4","login":"sebasmos","url":"https://github.com/sebasmos"}}},{"id":"MDExOlB1bGxSZXF1ZXN0NTI3Mzk0NDA1","title":"adding S2 split work","url":"https://github.com/sebasmos/BSP_PPCU/pull/2","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars.githubusercontent.com/u/31293221?u=3902f9f30a55419d9a346085ed5bd18d51f08fb8&v=4","url":"https://github.com/sebasmos","login":"sebasmos"},"createdAt":"2020-11-25T11:59:32Z","number":2,"changedFiles":11,"additions":281,"deletions":0,"baseRepository":{"name":"BSP_PPCU","url":"https://github.com/sebasmos/BSP_PPCU","owner":{"avatarUrl":"https://avatars.githubusercontent.com/u/31293221?u=3902f9f30a55419d9a346085ed5bd18d51f08fb8&v=4","login":"sebasmos","url":"https://github.com/sebasmos"}}},{"id":"MDExOlB1bGxSZXF1ZXN0NTI1MTMwMDY1","title":"Merge pull request #1 from sebasmos/master","url":"https://github.com/sebasmos/DesignPatterns/pull/2","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars.githubusercontent.com/u/31293221?u=3902f9f30a55419d9a346085ed5bd18d51f08fb8&v=4","url":"https://github.com/sebasmos","login":"sebasmos"},"createdAt":"2020-11-21T13:22:19Z","number":2,"changedFiles":0,"additions":0,"deletions":0,"baseRepository":{"name":"DesignPatterns","url":"https://github.com/sebasmos/DesignPatterns","owner":{"avatarUrl":"https://avatars.githubusercontent.com/u/31293221?u=3902f9f30a55419d9a346085ed5bd18d51f08fb8&v=4","login":"sebasmos","url":"https://github.com/sebasmos"}}},{"id":"MDExOlB1bGxSZXF1ZXN0NTI1MTI5OTY5","title":"Master","url":"https://github.com/sebasmos/DesignPatterns/pull/1","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars.githubusercontent.com/u/31293221?u=3902f9f30a55419d9a346085ed5bd18d51f08fb8&v=4","url":"https://github.com/sebasmos","login":"sebasmos"},"createdAt":"2020-11-21T13:21:23Z","number":1,"changedFiles":27,"additions":466,"deletions":10,"baseRepository":{"name":"DesignPatterns","url":"https://github.com/sebasmos/DesignPatterns","owner":{"avatarUrl":"https://avatars.githubusercontent.com/u/31293221?u=3902f9f30a55419d9a346085ed5bd18d51f08fb8&v=4","login":"sebasmos","url":"https://github.com/sebasmos"}}},{"id":"MDExOlB1bGxSZXF1ZXN0NTI0MDk3MTEz","title":"Merge pull request #4 from sebasmos/master","url":"https://github.com/sebasmos/Forest_Analysis/pull/5","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars.githubusercontent.com/u/31293221?u=3902f9f30a55419d9a346085ed5bd18d51f08fb8&v=4","url":"https://github.com/sebasmos","login":"sebasmos"},"createdAt":"2020-11-19T16:58:31Z","number":5,"changedFiles":0,"additions":0,"deletions":0,"baseRepository":{"name":"Forest_Analysis","url":"https://github.com/sebasmos/Forest_Analysis","owner":{"avatarUrl":"https://avatars.githubusercontent.com/u/31293221?u=3902f9f30a55419d9a346085ed5bd18d51f08fb8&v=4","login":"sebasmos","url":"https://github.com/sebasmos"}}},{"id":"MDExOlB1bGxSZXF1ZXN0NTI0MDkzNzAx","title":"95% acc","url":"https://github.com/sebasmos/Forest_Analysis/pull/4","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars.githubusercontent.com/u/31293221?u=3902f9f30a55419d9a346085ed5bd18d51f08fb8&v=4","url":"https://github.com/sebasmos","login":"sebasmos"},"createdAt":"2020-11-19T16:53:06Z","number":4,"changedFiles":4,"additions":175447,"deletions":51,"baseRepository":{"name":"Forest_Analysis","url":"https://github.com/sebasmos/Forest_Analysis","owner":{"avatarUrl":"https://avatars.githubusercontent.com/u/31293221?u=3902f9f30a55419d9a346085ed5bd18d51f08fb8&v=4","login":"sebasmos","url":"https://github.com/sebasmos"}}},{"id":"MDExOlB1bGxSZXF1ZXN0NTIyNjMxOTc2","title":"adding other designs","url":"https://github.com/sebasmos/BSP_PPCU/pull/1","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars.githubusercontent.com/u/31293221?u=3902f9f30a55419d9a346085ed5bd18d51f08fb8&v=4","url":"https://github.com/sebasmos","login":"sebasmos"},"createdAt":"2020-11-17T19:00:49Z","number":1,"changedFiles":64,"additions":1879,"deletions":0,"baseRepository":{"name":"BSP_PPCU","url":"https://github.com/sebasmos/BSP_PPCU","owner":{"avatarUrl":"https://avatars.githubusercontent.com/u/31293221?u=3902f9f30a55419d9a346085ed5bd18d51f08fb8&v=4","login":"sebasmos","url":"https://github.com/sebasmos"}}},{"id":"MDExOlB1bGxSZXF1ZXN0NTIyMzYxMjA1","title":"adding gitignore","url":"https://github.com/sebasmos/DMML/pull/1","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars.githubusercontent.com/u/31293221?u=3902f9f30a55419d9a346085ed5bd18d51f08fb8&v=4","url":"https://github.com/sebasmos","login":"sebasmos"},"createdAt":"2020-11-17T12:09:39Z","number":1,"changedFiles":4,"additions":1,"deletions":0,"baseRepository":{"name":"DMML","url":"https://github.com/sebasmos/DMML","owner":{"avatarUrl":"https://avatars.githubusercontent.com/u/31293221?u=3902f9f30a55419d9a346085ed5bd18d51f08fb8&v=4","login":"sebasmos","url":"https://github.com/sebasmos"}}},{"id":"MDExOlB1bGxSZXF1ZXN0NTIwMDE4NTA3","title":"adding random forest with real testing set","url":"https://github.com/sebasmos/Forest_Analysis/pull/3","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars.githubusercontent.com/u/31293221?u=3902f9f30a55419d9a346085ed5bd18d51f08fb8&v=4","url":"https://github.com/sebasmos","login":"sebasmos"},"createdAt":"2020-11-12T16:52:28Z","number":3,"changedFiles":2,"additions":600,"deletions":85,"baseRepository":{"name":"Forest_Analysis","url":"https://github.com/sebasmos/Forest_Analysis","owner":{"avatarUrl":"https://avatars.githubusercontent.com/u/31293221?u=3902f9f30a55419d9a346085ed5bd18d51f08fb8&v=4","login":"sebasmos","url":"https://github.com/sebasmos"}}},{"id":"MDExOlB1bGxSZXF1ZXN0NTE5ODgxMjk3","title":"Master","url":"https://github.com/sebasmos/Forest_Analysis/pull/2","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars.githubusercontent.com/u/31293221?u=3902f9f30a55419d9a346085ed5bd18d51f08fb8&v=4","url":"https://github.com/sebasmos","login":"sebasmos"},"createdAt":"2020-11-12T13:21:51Z","number":2,"changedFiles":2,"additions":73,"deletions":208,"baseRepository":{"name":"Forest_Analysis","url":"https://github.com/sebasmos/Forest_Analysis","owner":{"avatarUrl":"https://avatars.githubusercontent.com/u/31293221?u=3902f9f30a55419d9a346085ed5bd18d51f08fb8&v=4","login":"sebasmos","url":"https://github.com/sebasmos"}}},{"id":"MDExOlB1bGxSZXF1ZXN0NTE5ODYxOTAz","title":"improving analysis","url":"https://github.com/sebasmos/Forest_Analysis/pull/1","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars.githubusercontent.com/u/31293221?u=3902f9f30a55419d9a346085ed5bd18d51f08fb8&v=4","url":"https://github.com/sebasmos","login":"sebasmos"},"createdAt":"2020-11-12T12:47:35Z","number":1,"changedFiles":7,"additions":642,"deletions":62,"baseRepository":{"name":"Forest_Analysis","url":"https://github.com/sebasmos/Forest_Analysis","owner":{"avatarUrl":"https://avatars.githubusercontent.com/u/31293221?u=3902f9f30a55419d9a346085ed5bd18d51f08fb8&v=4","login":"sebasmos","url":"https://github.com/sebasmos"}}},{"id":"MDExOlB1bGxSZXF1ZXN0NDgwODE4NDM0","title":"Cross validation","url":"https://github.com/sebasmos/CardioLux-Physionet-2020/pull/4","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars.githubusercontent.com/u/31293221?u=3902f9f30a55419d9a346085ed5bd18d51f08fb8&v=4","url":"https://github.com/sebasmos","login":"sebasmos"},"createdAt":"2020-09-06T16:30:43Z","number":4,"changedFiles":16,"additions":957,"deletions":57,"baseRepository":{"name":"CardioLux-Physionet-2020","url":"https://github.com/sebasmos/CardioLux-Physionet-2020","owner":{"avatarUrl":"https://avatars.githubusercontent.com/u/31293221?u=3902f9f30a55419d9a346085ed5bd18d51f08fb8&v=4","login":"sebasmos","url":"https://github.com/sebasmos"}}},{"id":"MDExOlB1bGxSZXF1ZXN0NDcyMDY5ODE0","title":"adding windowing features","url":"https://github.com/sebasmos/CardioLux-Physionet-2020/pull/3","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars.githubusercontent.com/u/31293221?u=3902f9f30a55419d9a346085ed5bd18d51f08fb8&v=4","url":"https://github.com/sebasmos","login":"sebasmos"},"createdAt":"2020-08-23T03:50:54Z","number":3,"changedFiles":9,"additions":290,"deletions":6,"baseRepository":{"name":"CardioLux-Physionet-2020","url":"https://github.com/sebasmos/CardioLux-Physionet-2020","owner":{"avatarUrl":"https://avatars.githubusercontent.com/u/31293221?u=3902f9f30a55419d9a346085ed5bd18d51f08fb8&v=4","login":"sebasmos","url":"https://github.com/sebasmos"}}},{"id":"MDExOlB1bGxSZXF1ZXN0NDcyMDQ4NjA5","title":"Nn 1","url":"https://github.com/sebasmos/CardioLux-Physionet-2020/pull/2","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars.githubusercontent.com/u/31293221?u=3902f9f30a55419d9a346085ed5bd18d51f08fb8&v=4","url":"https://github.com/sebasmos","login":"sebasmos"},"createdAt":"2020-08-22T22:47:14Z","number":2,"changedFiles":6,"additions":62,"deletions":74,"baseRepository":{"name":"CardioLux-Physionet-2020","url":"https://github.com/sebasmos/CardioLux-Physionet-2020","owner":{"avatarUrl":"https://avatars.githubusercontent.com/u/31293221?u=3902f9f30a55419d9a346085ed5bd18d51f08fb8&v=4","login":"sebasmos","url":"https://github.com/sebasmos"}}},{"id":"MDExOlB1bGxSZXF1ZXN0NDcyMDQ3NTgw","title":"Nn 1","url":"https://github.com/sebasmos/CardioLux-Physionet-2020/pull/1","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars.githubusercontent.com/u/31293221?u=3902f9f30a55419d9a346085ed5bd18d51f08fb8&v=4","url":"https://github.com/sebasmos","login":"sebasmos"},"createdAt":"2020-08-22T22:33:22Z","number":1,"changedFiles":22,"additions":11608,"deletions":17,"baseRepository":{"name":"CardioLux-Physionet-2020","url":"https://github.com/sebasmos/CardioLux-Physionet-2020","owner":{"avatarUrl":"https://avatars.githubusercontent.com/u/31293221?u=3902f9f30a55419d9a346085ed5bd18d51f08fb8&v=4","login":"sebasmos","url":"https://github.com/sebasmos"}}},{"id":"MDExOlB1bGxSZXF1ZXN0NDIzOTk4NzA1","title":"Sign in with password","url":"https://github.com/sebasmos/PneumaBetta/pull/1","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars.githubusercontent.com/u/31293221?u=3902f9f30a55419d9a346085ed5bd18d51f08fb8&v=4","url":"https://github.com/sebasmos","login":"sebasmos"},"createdAt":"2020-05-27T17:19:38Z","number":1,"changedFiles":4,"additions":172,"deletions":16,"baseRepository":{"name":"PneumaBetta","url":"https://github.com/sebasmos/PneumaBetta","owner":{"avatarUrl":"https://avatars.githubusercontent.com/u/31293221?u=3902f9f30a55419d9a346085ed5bd18d51f08fb8&v=4","login":"sebasmos","url":"https://github.com/sebasmos"}}}],"open":2,"closed":0,"merged":17,"totalCount":19}'
+        '{"closed":0,"data":[{"id":"MDExOlB1bGxSZXF1ZXN0Njg0OTc4OTgy","title":"Fixing \\"Updating error AttributeError: module \'seaborn\' has no attribute \'tsplot\'\\"","url":"https://github.com/GoogleCloudPlatform/training-data-analyst/pull/1546","state":"OPEN","mergedBy":null,"createdAt":"2021-07-07T08:27:26Z","number":1546,"changedFiles":5,"additions":80,"deletions":181,"baseRepository":{"name":"training-data-analyst","url":"https://github.com/GoogleCloudPlatform/training-data-analyst","owner":{"avatarUrl":"https://avatars.githubusercontent.com/u/2810941?v=4","login":"GoogleCloudPlatform","url":"https://github.com/GoogleCloudPlatform"}}},{"id":"MDExOlB1bGxSZXF1ZXN0NjYzNjYwMDMw","title":"Compatibility with Colab","url":"https://github.com/opendatacube/datacube-core/pull/1101","state":"OPEN","mergedBy":null,"createdAt":"2021-06-07T15:13:05Z","number":1101,"changedFiles":1,"additions":41,"deletions":0,"baseRepository":{"name":"datacube-core","url":"https://github.com/opendatacube/datacube-core","owner":{"avatarUrl":"https://avatars.githubusercontent.com/u/26125288?v=4","login":"opendatacube","url":"https://github.com/opendatacube"}}},{"id":"MDExOlB1bGxSZXF1ZXN0NjI4NDc0MTgy","title":"Part1","url":"https://github.com/ChallengeNasa/Model_1_short_segmentation/pull/1","state":"OPEN","mergedBy":null,"createdAt":"2021-05-01T18:22:16Z","number":1,"changedFiles":6878,"additions":8787,"deletions":4922,"baseRepository":{"name":"Model_1_short_segmentation","url":"https://github.com/ChallengeNasa/Model_1_short_segmentation","owner":{"avatarUrl":"https://avatars.githubusercontent.com/u/83374313?v=4","login":"ChallengeNasa","url":"https://github.com/ChallengeNasa"}}},{"id":"MDExOlB1bGxSZXF1ZXN0NjE1NTcxMDYw","title":"DT","url":"https://github.com/sebasmos/Cardiolux-Unicauca_2021/pull/1","state":"OPEN","mergedBy":null,"createdAt":"2021-04-14T21:53:40Z","number":1,"changedFiles":23,"additions":652,"deletions":3,"baseRepository":{"name":"Cardiolux-Unicauca_2021","url":"https://github.com/sebasmos/Cardiolux-Unicauca_2021","owner":{"avatarUrl":"https://avatars.githubusercontent.com/u/31293221?u=3902f9f30a55419d9a346085ed5bd18d51f08fb8&v=4","login":"sebasmos","url":"https://github.com/sebasmos"}}},{"id":"MDExOlB1bGxSZXF1ZXN0NTI4MTMzNjkz","title":"Master","url":"https://github.com/sebasmos/DMML/pull/2","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars.githubusercontent.com/u/31293221?u=3902f9f30a55419d9a346085ed5bd18d51f08fb8&v=4","url":"https://github.com/sebasmos","login":"sebasmos"},"createdAt":"2020-11-26T15:06:28Z","number":2,"changedFiles":8,"additions":105,"deletions":45,"baseRepository":{"name":"DMML","url":"https://github.com/sebasmos/DMML","owner":{"avatarUrl":"https://avatars.githubusercontent.com/u/31293221?u=3902f9f30a55419d9a346085ed5bd18d51f08fb8&v=4","login":"sebasmos","url":"https://github.com/sebasmos"}}},{"id":"MDExOlB1bGxSZXF1ZXN0NTI3Mzk0ODI4","title":"Lab01","url":"https://github.com/sebasmos/BSP_PPCU/pull/3","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars.githubusercontent.com/u/31293221?u=3902f9f30a55419d9a346085ed5bd18d51f08fb8&v=4","url":"https://github.com/sebasmos","login":"sebasmos"},"createdAt":"2020-11-25T12:00:14Z","number":3,"changedFiles":0,"additions":0,"deletions":0,"baseRepository":{"name":"BSP_PPCU","url":"https://github.com/sebasmos/BSP_PPCU","owner":{"avatarUrl":"https://avatars.githubusercontent.com/u/31293221?u=3902f9f30a55419d9a346085ed5bd18d51f08fb8&v=4","login":"sebasmos","url":"https://github.com/sebasmos"}}},{"id":"MDExOlB1bGxSZXF1ZXN0NTI3Mzk0NDA1","title":"adding S2 split work","url":"https://github.com/sebasmos/BSP_PPCU/pull/2","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars.githubusercontent.com/u/31293221?u=3902f9f30a55419d9a346085ed5bd18d51f08fb8&v=4","url":"https://github.com/sebasmos","login":"sebasmos"},"createdAt":"2020-11-25T11:59:32Z","number":2,"changedFiles":11,"additions":281,"deletions":0,"baseRepository":{"name":"BSP_PPCU","url":"https://github.com/sebasmos/BSP_PPCU","owner":{"avatarUrl":"https://avatars.githubusercontent.com/u/31293221?u=3902f9f30a55419d9a346085ed5bd18d51f08fb8&v=4","login":"sebasmos","url":"https://github.com/sebasmos"}}},{"id":"MDExOlB1bGxSZXF1ZXN0NTI1MTMwMDY1","title":"Merge pull request #1 from sebasmos/master","url":"https://github.com/sebasmos/DesignPatterns/pull/2","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars.githubusercontent.com/u/31293221?u=3902f9f30a55419d9a346085ed5bd18d51f08fb8&v=4","url":"https://github.com/sebasmos","login":"sebasmos"},"createdAt":"2020-11-21T13:22:19Z","number":2,"changedFiles":0,"additions":0,"deletions":0,"baseRepository":{"name":"DesignPatterns","url":"https://github.com/sebasmos/DesignPatterns","owner":{"avatarUrl":"https://avatars.githubusercontent.com/u/31293221?u=3902f9f30a55419d9a346085ed5bd18d51f08fb8&v=4","login":"sebasmos","url":"https://github.com/sebasmos"}}},{"id":"MDExOlB1bGxSZXF1ZXN0NTI1MTI5OTY5","title":"Master","url":"https://github.com/sebasmos/DesignPatterns/pull/1","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars.githubusercontent.com/u/31293221?u=3902f9f30a55419d9a346085ed5bd18d51f08fb8&v=4","url":"https://github.com/sebasmos","login":"sebasmos"},"createdAt":"2020-11-21T13:21:23Z","number":1,"changedFiles":27,"additions":466,"deletions":10,"baseRepository":{"name":"DesignPatterns","url":"https://github.com/sebasmos/DesignPatterns","owner":{"avatarUrl":"https://avatars.githubusercontent.com/u/31293221?u=3902f9f30a55419d9a346085ed5bd18d51f08fb8&v=4","login":"sebasmos","url":"https://github.com/sebasmos"}}},{"id":"MDExOlB1bGxSZXF1ZXN0NTI0MDk3MTEz","title":"Merge pull request #4 from sebasmos/master","url":"https://github.com/sebasmos/Forest_Analysis/pull/5","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars.githubusercontent.com/u/31293221?u=3902f9f30a55419d9a346085ed5bd18d51f08fb8&v=4","url":"https://github.com/sebasmos","login":"sebasmos"},"createdAt":"2020-11-19T16:58:31Z","number":5,"changedFiles":0,"additions":0,"deletions":0,"baseRepository":{"name":"Forest_Analysis","url":"https://github.com/sebasmos/Forest_Analysis","owner":{"avatarUrl":"https://avatars.githubusercontent.com/u/31293221?u=3902f9f30a55419d9a346085ed5bd18d51f08fb8&v=4","login":"sebasmos","url":"https://github.com/sebasmos"}}},{"id":"MDExOlB1bGxSZXF1ZXN0NTI0MDkzNzAx","title":"95% acc","url":"https://github.com/sebasmos/Forest_Analysis/pull/4","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars.githubusercontent.com/u/31293221?u=3902f9f30a55419d9a346085ed5bd18d51f08fb8&v=4","url":"https://github.com/sebasmos","login":"sebasmos"},"createdAt":"2020-11-19T16:53:06Z","number":4,"changedFiles":4,"additions":175447,"deletions":51,"baseRepository":{"name":"Forest_Analysis","url":"https://github.com/sebasmos/Forest_Analysis","owner":{"avatarUrl":"https://avatars.githubusercontent.com/u/31293221?u=3902f9f30a55419d9a346085ed5bd18d51f08fb8&v=4","login":"sebasmos","url":"https://github.com/sebasmos"}}},{"id":"MDExOlB1bGxSZXF1ZXN0NTIyNjMxOTc2","title":"adding other designs","url":"https://github.com/sebasmos/BSP_PPCU/pull/1","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars.githubusercontent.com/u/31293221?u=3902f9f30a55419d9a346085ed5bd18d51f08fb8&v=4","url":"https://github.com/sebasmos","login":"sebasmos"},"createdAt":"2020-11-17T19:00:49Z","number":1,"changedFiles":64,"additions":1879,"deletions":0,"baseRepository":{"name":"BSP_PPCU","url":"https://github.com/sebasmos/BSP_PPCU","owner":{"avatarUrl":"https://avatars.githubusercontent.com/u/31293221?u=3902f9f30a55419d9a346085ed5bd18d51f08fb8&v=4","login":"sebasmos","url":"https://github.com/sebasmos"}}},{"id":"MDExOlB1bGxSZXF1ZXN0NTIyMzYxMjA1","title":"adding gitignore","url":"https://github.com/sebasmos/DMML/pull/1","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars.githubusercontent.com/u/31293221?u=3902f9f30a55419d9a346085ed5bd18d51f08fb8&v=4","url":"https://github.com/sebasmos","login":"sebasmos"},"createdAt":"2020-11-17T12:09:39Z","number":1,"changedFiles":4,"additions":1,"deletions":0,"baseRepository":{"name":"DMML","url":"https://github.com/sebasmos/DMML","owner":{"avatarUrl":"https://avatars.githubusercontent.com/u/31293221?u=3902f9f30a55419d9a346085ed5bd18d51f08fb8&v=4","login":"sebasmos","url":"https://github.com/sebasmos"}}},{"id":"MDExOlB1bGxSZXF1ZXN0NTIwMDE4NTA3","title":"adding random forest with real testing set","url":"https://github.com/sebasmos/Forest_Analysis/pull/3","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars.githubusercontent.com/u/31293221?u=3902f9f30a55419d9a346085ed5bd18d51f08fb8&v=4","url":"https://github.com/sebasmos","login":"sebasmos"},"createdAt":"2020-11-12T16:52:28Z","number":3,"changedFiles":2,"additions":600,"deletions":85,"baseRepository":{"name":"Forest_Analysis","url":"https://github.com/sebasmos/Forest_Analysis","owner":{"avatarUrl":"https://avatars.githubusercontent.com/u/31293221?u=3902f9f30a55419d9a346085ed5bd18d51f08fb8&v=4","login":"sebasmos","url":"https://github.com/sebasmos"}}},{"id":"MDExOlB1bGxSZXF1ZXN0NTE5ODgxMjk3","title":"Master","url":"https://github.com/sebasmos/Forest_Analysis/pull/2","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars.githubusercontent.com/u/31293221?u=3902f9f30a55419d9a346085ed5bd18d51f08fb8&v=4","url":"https://github.com/sebasmos","login":"sebasmos"},"createdAt":"2020-11-12T13:21:51Z","number":2,"changedFiles":2,"additions":73,"deletions":208,"baseRepository":{"name":"Forest_Analysis","url":"https://github.com/sebasmos/Forest_Analysis","owner":{"avatarUrl":"https://avatars.githubusercontent.com/u/31293221?u=3902f9f30a55419d9a346085ed5bd18d51f08fb8&v=4","login":"sebasmos","url":"https://github.com/sebasmos"}}},{"id":"MDExOlB1bGxSZXF1ZXN0NTE5ODYxOTAz","title":"improving analysis","url":"https://github.com/sebasmos/Forest_Analysis/pull/1","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars.githubusercontent.com/u/31293221?u=3902f9f30a55419d9a346085ed5bd18d51f08fb8&v=4","url":"https://github.com/sebasmos","login":"sebasmos"},"createdAt":"2020-11-12T12:47:35Z","number":1,"changedFiles":7,"additions":642,"deletions":62,"baseRepository":{"name":"Forest_Analysis","url":"https://github.com/sebasmos/Forest_Analysis","owner":{"avatarUrl":"https://avatars.githubusercontent.com/u/31293221?u=3902f9f30a55419d9a346085ed5bd18d51f08fb8&v=4","login":"sebasmos","url":"https://github.com/sebasmos"}}},{"id":"MDExOlB1bGxSZXF1ZXN0NDgwODE4NDM0","title":"Cross validation","url":"https://github.com/sebasmos/CardioLux-Physionet-2020/pull/4","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars.githubusercontent.com/u/31293221?u=3902f9f30a55419d9a346085ed5bd18d51f08fb8&v=4","url":"https://github.com/sebasmos","login":"sebasmos"},"createdAt":"2020-09-06T16:30:43Z","number":4,"changedFiles":16,"additions":957,"deletions":57,"baseRepository":{"name":"CardioLux-Physionet-2020","url":"https://github.com/sebasmos/CardioLux-Physionet-2020","owner":{"avatarUrl":"https://avatars.githubusercontent.com/u/31293221?u=3902f9f30a55419d9a346085ed5bd18d51f08fb8&v=4","login":"sebasmos","url":"https://github.com/sebasmos"}}},{"id":"MDExOlB1bGxSZXF1ZXN0NDcyMDY5ODE0","title":"adding windowing features","url":"https://github.com/sebasmos/CardioLux-Physionet-2020/pull/3","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars.githubusercontent.com/u/31293221?u=3902f9f30a55419d9a346085ed5bd18d51f08fb8&v=4","url":"https://github.com/sebasmos","login":"sebasmos"},"createdAt":"2020-08-23T03:50:54Z","number":3,"changedFiles":9,"additions":290,"deletions":6,"baseRepository":{"name":"CardioLux-Physionet-2020","url":"https://github.com/sebasmos/CardioLux-Physionet-2020","owner":{"avatarUrl":"https://avatars.githubusercontent.com/u/31293221?u=3902f9f30a55419d9a346085ed5bd18d51f08fb8&v=4","login":"sebasmos","url":"https://github.com/sebasmos"}}},{"id":"MDExOlB1bGxSZXF1ZXN0NDcyMDQ4NjA5","title":"Nn 1","url":"https://github.com/sebasmos/CardioLux-Physionet-2020/pull/2","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars.githubusercontent.com/u/31293221?u=3902f9f30a55419d9a346085ed5bd18d51f08fb8&v=4","url":"https://github.com/sebasmos","login":"sebasmos"},"createdAt":"2020-08-22T22:47:14Z","number":2,"changedFiles":6,"additions":62,"deletions":74,"baseRepository":{"name":"CardioLux-Physionet-2020","url":"https://github.com/sebasmos/CardioLux-Physionet-2020","owner":{"avatarUrl":"https://avatars.githubusercontent.com/u/31293221?u=3902f9f30a55419d9a346085ed5bd18d51f08fb8&v=4","login":"sebasmos","url":"https://github.com/sebasmos"}}},{"id":"MDExOlB1bGxSZXF1ZXN0NDcyMDQ3NTgw","title":"Nn 1","url":"https://github.com/sebasmos/CardioLux-Physionet-2020/pull/1","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars.githubusercontent.com/u/31293221?u=3902f9f30a55419d9a346085ed5bd18d51f08fb8&v=4","url":"https://github.com/sebasmos","login":"sebasmos"},"createdAt":"2020-08-22T22:33:22Z","number":1,"changedFiles":22,"additions":11608,"deletions":17,"baseRepository":{"name":"CardioLux-Physionet-2020","url":"https://github.com/sebasmos/CardioLux-Physionet-2020","owner":{"avatarUrl":"https://avatars.githubusercontent.com/u/31293221?u=3902f9f30a55419d9a346085ed5bd18d51f08fb8&v=4","login":"sebasmos","url":"https://github.com/sebasmos"}}},{"id":"MDExOlB1bGxSZXF1ZXN0NDIzOTk4NzA1","title":"Sign in with password","url":"https://github.com/sebasmos/PneumaBetta/pull/1","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars.githubusercontent.com/u/31293221?u=3902f9f30a55419d9a346085ed5bd18d51f08fb8&v=4","url":"https://github.com/sebasmos","login":"sebasmos"},"createdAt":"2020-05-27T17:19:38Z","number":1,"changedFiles":4,"additions":172,"deletions":16,"baseRepository":{"name":"PneumaBetta","url":"https://github.com/sebasmos/PneumaBetta","owner":{"avatarUrl":"https://avatars.githubusercontent.com/u/31293221?u=3902f9f30a55419d9a346085ed5bd18d51f08fb8&v=4","login":"sebasmos","url":"https://github.com/sebasmos"}}}],"merged":17,"open":4,"totalCount":21}'
       );
     },
     ,
@@ -14,7 +14,7 @@
     ,
     function (e) {
       e.exports = JSON.parse(
-        '{"data":[{"id":"MDU6SXNzdWU2OTA2OTEyNTA=","closed":true,"title":" logger.error(\'%\', 1, stack_info=True)\\r\\nMessage: \'%\'\\r\\nArguments: (1,)\\r\\n","createdAt":"2020-09-02T03:49:13Z","url":"https://github.com/spyder-ide/spyder/issues/13690","number":13690,"assignees":{"nodes":[]},"repository":{"name":"spyder","url":"https://github.com/spyder-ide/spyder","owner":{"login":"spyder-ide","avatarUrl":"https://avatars.githubusercontent.com/u/1284937?v=4","url":"https://github.com/spyder-ide"}}}],"open":0,"closed":1,"totalCount":1}'
+        '{"closed":1,"data":[{"id":"MDU6SXNzdWU5MTM2Mjg2NjM=","closed":false,"title":"Compatibility with Google Colab","createdAt":"2021-06-07T14:44:29Z","url":"https://github.com/opendatacube/datacube-core/issues/1100","number":1100,"assignees":{"nodes":[]},"repository":{"name":"datacube-core","url":"https://github.com/opendatacube/datacube-core","owner":{"login":"opendatacube","avatarUrl":"https://avatars.githubusercontent.com/u/26125288?v=4","url":"https://github.com/opendatacube"}}},{"id":"MDU6SXNzdWU2OTA2OTEyNTA=","closed":true,"title":" logger.error(\'%\', 1, stack_info=True)\\r\\nMessage: \'%\'\\r\\nArguments: (1,)\\r\\n","createdAt":"2020-09-02T03:49:13Z","url":"https://github.com/spyder-ide/spyder/issues/13690","number":13690,"assignees":{"nodes":[]},"repository":{"name":"spyder","url":"https://github.com/spyder-ide/spyder","owner":{"login":"spyder-ide","avatarUrl":"https://avatars.githubusercontent.com/u/1284937?v=4","url":"https://github.com/spyder-ide"}}}],"open":1,"totalCount":2}'
       );
     },
     ,
@@ -175,7 +175,7 @@
     ,
     function (e) {
       e.exports = JSON.parse(
-        '{"data":[{"login":"spyder-ide","avatarUrl":"https://avatars.githubusercontent.com/u/1284937?v=4","__typename":"Organization"},{"login":"DS4A-T22","avatarUrl":"https://avatars.githubusercontent.com/u/66410952?v=4","__typename":"Organization"},{"login":"aessunicauca2020","avatarUrl":"https://avatars.githubusercontent.com/u/67498311?v=4","__typename":"Organization"},{"login":"oaksoftwareteam","avatarUrl":"https://avatars.githubusercontent.com/u/70544051?v=4","__typename":"Organization"},{"login":"ChallengeNasa","avatarUrl":"https://avatars.githubusercontent.com/u/83374313?v=4","__typename":"Organization"}]}'
+        '{"data":[{"login":"spyder-ide","avatarUrl":"https://avatars.githubusercontent.com/u/1284937?v=4","__typename":"Organization"},{"login":"opendatacube","avatarUrl":"https://avatars.githubusercontent.com/u/26125288?v=4","__typename":"Organization"},{"login":"GoogleCloudPlatform","avatarUrl":"https://avatars.githubusercontent.com/u/2810941?v=4","__typename":"Organization"},{"login":"DS4A-T22","avatarUrl":"https://avatars.githubusercontent.com/u/66410952?v=4","__typename":"Organization"},{"login":"aessunicauca2020","avatarUrl":"https://avatars.githubusercontent.com/u/67498311?v=4","__typename":"Organization"},{"login":"oaksoftwareteam","avatarUrl":"https://avatars.githubusercontent.com/u/70544051?v=4","__typename":"Organization"},{"login":"ChallengeNasa","avatarUrl":"https://avatars.githubusercontent.com/u/83374313?v=4","__typename":"Organization"},{"login":"AI-India-2021","avatarUrl":"https://avatars.githubusercontent.com/u/86838554?v=4","__typename":"Organization"}]}'
       );
     },
     function (e) {
@@ -552,8 +552,8 @@
         m = a(126),
         d = (a(134), a(135), a(1)),
         h = a(2),
-        A = a(3),
-        p = a(4),
+        p = a(3),
+        A = a(4),
         f = a(12),
         C = a(31),
         g = (a(136), a(7)),
@@ -1095,7 +1095,7 @@
           phoneSection: { title: "Phone Number", subtitle: "+57 3173308094" },
         },
         D = a(108);
-      var H = function () {
+      var U = function () {
           var e, t, a;
           return n.a.createElement(
             D.a,
@@ -1137,15 +1137,15 @@
             })
           );
         },
-        U = function (e, t) {
+        H = function (e, t) {
           e.target.style.backgroundColor = t;
         },
         F = function (e) {
           e.target.style.backgroundColor = "transparent";
         },
         P = (function (e) {
-          Object(p.a)(a, e);
-          var t = Object(A.a)(a);
+          Object(A.a)(a, e);
+          var t = Object(p.a)(a);
           function a() {
             return Object(d.a)(this, a), t.apply(this, arguments);
           }
@@ -1160,7 +1160,7 @@
                   return n.a.createElement(
                     g.Fade,
                     { top: !0, duration: 1e3, distance: "20px" },
-                    n.a.createElement(H, null),
+                    n.a.createElement(U, null),
                     n.a.createElement(
                       "div",
                       null,
@@ -1216,7 +1216,7 @@
                                 activeStyle: { fontWeight: "bold" },
                                 style: { color: e.text },
                                 onMouseEnter: function (t) {
-                                  return U(t, e.highlight);
+                                  return H(t, e.highlight);
                                 },
                                 onMouseOut: function (e) {
                                   return F(e);
@@ -1236,7 +1236,7 @@
                                 activeStyle: { fontWeight: "bold" },
                                 style: { color: e.text },
                                 onMouseEnter: function (t) {
-                                  return U(t, e.highlight);
+                                  return H(t, e.highlight);
                                 },
                                 onMouseOut: function (e) {
                                   return F(e);
@@ -1256,7 +1256,7 @@
                                 activeStyle: { fontWeight: "bold" },
                                 style: { color: e.text },
                                 onMouseEnter: function (t) {
-                                  return U(t, e.highlight);
+                                  return H(t, e.highlight);
                                 },
                                 onMouseOut: function (e) {
                                   return F(e);
@@ -1276,7 +1276,7 @@
                                 activeStyle: { fontWeight: "bold" },
                                 style: { color: e.text },
                                 onMouseEnter: function (t) {
-                                  return U(t, e.highlight);
+                                  return H(t, e.highlight);
                                 },
                                 onMouseOut: function (e) {
                                   return F(e);
@@ -1296,7 +1296,7 @@
                                 activeStyle: { fontWeight: "bold" },
                                 style: { color: e.text },
                                 onMouseEnter: function (t) {
-                                  return U(t, e.highlight);
+                                  return H(t, e.highlight);
                                 },
                                 onMouseOut: function (e) {
                                   return F(e);
@@ -1316,7 +1316,7 @@
                                 activeStyle: { fontWeight: "bold" },
                                 style: { color: e.text },
                                 onMouseEnter: function (t) {
-                                  return U(t, e.highlight);
+                                  return H(t, e.highlight);
                                 },
                                 onMouseOut: function (e) {
                                   return F(e);
@@ -1335,23 +1335,23 @@
             a
           );
         })(r.Component),
-        L = (a(150), a(61)),
+        T = (a(150), a(61)),
         z = (a(151), a(37));
-      function T() {
-        var e = Object(L.a)([
+      function L() {
+        var e = Object(T.a)([
           "\n  i {\n    background-color: ",
           ";\n  }\n  &:hover i {\n    background-color: ",
           ";\n    transition: 0.3s ease-in;\n  }\n",
         ]);
         return (
-          (T = function () {
+          (L = function () {
             return e;
           }),
           e
         );
       }
       var R = z.c.span(
-        T(),
+        L(),
         function (e) {
           return e.backgroundColor;
         },
@@ -1422,8 +1422,8 @@
         );
       }
       var G = (function (e) {
-        Object(p.a)(a, e);
-        var t = Object(A.a)(a);
+        Object(A.a)(a, e);
+        var t = Object(p.a)(a);
         function a() {
           return Object(d.a)(this, a), t.apply(this, arguments);
         }
@@ -1905,8 +1905,8 @@
       var J = a(353),
         q = a(355),
         W = (function (e) {
-          Object(p.a)(a, e);
-          var t = Object(A.a)(a);
+          Object(A.a)(a, e);
+          var t = Object(p.a)(a);
           function a() {
             return Object(d.a)(this, a), t.apply(this, arguments);
           }
@@ -1961,8 +1961,8 @@
           );
         })(n.a.Component),
         Y = (function (e) {
-          Object(p.a)(a, e);
-          var t = Object(A.a)(a);
+          Object(A.a)(a, e);
+          var t = Object(p.a)(a);
           function a() {
             return Object(d.a)(this, a), t.apply(this, arguments);
           }
@@ -2349,8 +2349,8 @@
           );
         })(r.Component),
         K = (function (e) {
-          Object(p.a)(a, e);
-          var t = Object(A.a)(a);
+          Object(A.a)(a, e);
+          var t = Object(p.a)(a);
           function a() {
             return Object(d.a)(this, a), t.apply(this, arguments);
           }
@@ -2660,8 +2660,8 @@
           );
         })(r.Component),
         _ = (function (e) {
-          Object(p.a)(a, e);
-          var t = Object(A.a)(a);
+          Object(A.a)(a, e);
+          var t = Object(p.a)(a);
           function a() {
             return Object(d.a)(this, a), t.apply(this, arguments);
           }
@@ -3034,8 +3034,8 @@
           );
         })(r.Component),
         $ = (function (e) {
-          Object(p.a)(a, e);
-          var t = Object(A.a)(a);
+          Object(A.a)(a, e);
+          var t = Object(p.a)(a);
           function a() {
             return Object(d.a)(this, a), t.apply(this, arguments);
           }
@@ -4255,8 +4255,8 @@
           : n.a.createElement($, { theme: e.theme });
       }
       var te = (function (e) {
-        Object(p.a)(a, e);
-        var t = Object(A.a)(a);
+        Object(A.a)(a, e);
+        var t = Object(p.a)(a);
         function a() {
           return Object(d.a)(this, a), t.apply(this, arguments);
         }
@@ -4426,8 +4426,8 @@
         );
       }
       var le = (function (e) {
-          Object(p.a)(a, e);
-          var t = Object(A.a)(a);
+          Object(A.a)(a, e);
+          var t = Object(p.a)(a);
           function a() {
             return Object(d.a)(this, a), t.apply(this, arguments);
           }
@@ -4458,8 +4458,8 @@
           (a(157),
           a(158),
           (function (e) {
-            Object(p.a)(a, e);
-            var t = Object(A.a)(a);
+            Object(A.a)(a, e);
+            var t = Object(p.a)(a);
             function a() {
               return Object(d.a)(this, a), t.apply(this, arguments);
             }
@@ -4720,8 +4720,8 @@
         );
       }
       var ie = (function (e) {
-          Object(p.a)(a, e);
-          var t = Object(A.a)(a);
+          Object(A.a)(a, e);
+          var t = Object(p.a)(a);
           function a(e) {
             var r;
             return (
@@ -4763,8 +4763,8 @@
           (a(159),
           a(160),
           (function (e) {
-            Object(p.a)(r, e);
-            var t = Object(A.a)(r);
+            Object(A.a)(r, e);
+            var t = Object(p.a)(r);
             function r() {
               return Object(d.a)(this, r), t.apply(this, arguments);
             }
@@ -4887,8 +4887,8 @@
             );
           })(r.Component)),
         me = (function (e) {
-          Object(p.a)(a, e);
-          var t = Object(A.a)(a);
+          Object(A.a)(a, e);
+          var t = Object(p.a)(a);
           function a() {
             return Object(d.a)(this, a), t.apply(this, arguments);
           }
@@ -4935,8 +4935,8 @@
           (a(226),
           a(227),
           (function (e) {
-            Object(p.a)(r, e);
-            var t = Object(A.a)(r);
+            Object(A.a)(r, e);
+            var t = Object(p.a)(r);
             function r() {
               return Object(d.a)(this, r), t.apply(this, arguments);
             }
@@ -5021,8 +5021,8 @@
             );
           })(r.Component)),
         he = (function (e) {
-          Object(p.a)(a, e);
-          var t = Object(A.a)(a);
+          Object(A.a)(a, e);
+          var t = Object(p.a)(a);
           function a() {
             return Object(d.a)(this, a), t.apply(this, arguments);
           }
@@ -5068,12 +5068,12 @@
             a
           );
         })(r.Component),
-        Ae =
+        pe =
           (a(228),
           n.a.Component,
           (function (e) {
-            Object(p.a)(a, e);
-            var t = Object(A.a)(a);
+            Object(A.a)(a, e);
+            var t = Object(p.a)(a);
             function a() {
               return Object(d.a)(this, a), t.apply(this, arguments);
             }
@@ -5403,11 +5403,11 @@
               a
             );
           })(r.Component)),
-        pe =
+        Ae =
           (a(229),
           (function (e) {
-            Object(p.a)(a, e);
-            var t = Object(A.a)(a);
+            Object(A.a)(a, e);
+            var t = Object(p.a)(a);
             function a() {
               return Object(d.a)(this, a), t.apply(this, arguments);
             }
@@ -5433,7 +5433,7 @@
                             n.a.createElement(
                               "div",
                               { className: "heading-img-div" },
-                              n.a.createElement(Ae, { theme: e })
+                              n.a.createElement(pe, { theme: e })
                             ),
                             n.a.createElement(
                               "div",
@@ -5473,8 +5473,8 @@
         fe =
           (a(230),
           (function (e) {
-            Object(p.a)(r, e);
-            var t = Object(A.a)(r);
+            Object(A.a)(r, e);
+            var t = Object(p.a)(r);
             function r() {
               return Object(d.a)(this, r), t.apply(this, arguments);
             }
@@ -5574,8 +5574,8 @@
         Ce = (a(231), a(356)),
         ge = a(352),
         ue = (function (e) {
-          Object(p.a)(a, e);
-          var t = Object(A.a)(a);
+          Object(A.a)(a, e);
+          var t = Object(p.a)(a);
           function a() {
             return Object(d.a)(this, a), t.apply(this, arguments);
           }
@@ -5623,8 +5623,8 @@
         Ee =
           (a(232),
           (function (e) {
-            Object(p.a)(a, e);
-            var t = Object(A.a)(a);
+            Object(A.a)(a, e);
+            var t = Object(p.a)(a);
             function a() {
               return Object(d.a)(this, a), t.apply(this, arguments);
             }
@@ -6071,8 +6071,8 @@
             );
           })(r.Component)),
         be = (function (e) {
-          Object(p.a)(a, e);
-          var t = Object(A.a)(a);
+          Object(A.a)(a, e);
+          var t = Object(p.a)(a);
           function a() {
             return Object(d.a)(this, a), t.apply(this, arguments);
           }
@@ -6148,8 +6148,8 @@
         ye = a(67),
         ve = (a(324), a(44)),
         xe = (function (e) {
-          Object(p.a)(a, e);
-          var t = Object(A.a)(a);
+          Object(A.a)(a, e);
+          var t = Object(p.a)(a);
           function a() {
             return Object(d.a)(this, a), t.apply(this, arguments);
           }
@@ -6203,8 +6203,8 @@
         })(r.Component),
         Me = (a(325), a(51)),
         we = (function (e) {
-          Object(p.a)(a, e);
-          var t = Object(A.a)(a);
+          Object(A.a)(a, e);
+          var t = Object(p.a)(a);
           function a() {
             return Object(d.a)(this, a), t.apply(this, arguments);
           }
@@ -6255,8 +6255,8 @@
         ke =
           (a(326),
           (function (e) {
-            Object(p.a)(a, e);
-            var t = Object(A.a)(a);
+            Object(A.a)(a, e);
+            var t = Object(p.a)(a);
             function a() {
               return Object(d.a)(this, a), t.apply(this, arguments);
             }
@@ -6302,8 +6302,8 @@
           (a(327),
           a(328),
           (function (e) {
-            Object(p.a)(a, e);
-            var t = Object(A.a)(a);
+            Object(A.a)(a, e);
+            var t = Object(p.a)(a);
             function a() {
               return Object(d.a)(this, a), t.apply(this, arguments);
             }
@@ -6359,8 +6359,8 @@
           })(r.Component)),
         Ne = a(123),
         je = (function (e) {
-          Object(p.a)(a, e);
-          var t = Object(A.a)(a);
+          Object(A.a)(a, e);
+          var t = Object(p.a)(a);
           function a() {
             return Object(d.a)(this, a), t.apply(this, arguments);
           }
@@ -6401,8 +6401,8 @@
           (a(329),
           a(330),
           (function (e) {
-            Object(p.a)(a, e);
-            var t = Object(A.a)(a);
+            Object(A.a)(a, e);
+            var t = Object(p.a)(a);
             function a() {
               return Object(d.a)(this, a), t.apply(this, arguments);
             }
@@ -6610,8 +6610,8 @@
             );
           })(r.Component)),
         Se = (function (e) {
-          Object(p.a)(a, e);
-          var t = Object(A.a)(a);
+          Object(A.a)(a, e);
+          var t = Object(p.a)(a);
           function a() {
             return Object(d.a)(this, a), t.apply(this, arguments);
           }
@@ -6658,8 +6658,8 @@
           (a(331),
           a(332),
           (function (e) {
-            Object(p.a)(a, e);
-            var t = Object(A.a)(a);
+            Object(A.a)(a, e);
+            var t = Object(p.a)(a);
             function a() {
               return Object(d.a)(this, a), t.apply(this, arguments);
             }
@@ -6824,8 +6824,8 @@
             );
           })(r.Component)),
         Be = (function (e) {
-          Object(p.a)(a, e);
-          var t = Object(A.a)(a);
+          Object(A.a)(a, e);
+          var t = Object(p.a)(a);
           function a() {
             return Object(d.a)(this, a), t.apply(this, arguments);
           }
@@ -6871,8 +6871,8 @@
         De =
           (a(333),
           (function (e) {
-            Object(p.a)(a, e);
-            var t = Object(A.a)(a);
+            Object(A.a)(a, e);
+            var t = Object(p.a)(a);
             function a() {
               return Object(d.a)(this, a), t.apply(this, arguments);
             }
@@ -6901,11 +6901,11 @@
               a
             );
           })(r.Component)),
-        He =
+        Ue =
           (r.Component,
           (function (e) {
-            Object(p.a)(a, e);
-            var t = Object(A.a)(a);
+            Object(A.a)(a, e);
+            var t = Object(p.a)(a);
             function a() {
               return Object(d.a)(this, a), t.apply(this, arguments);
             }
@@ -7158,12 +7158,12 @@
               a
             );
           })(r.Component)),
-        Ue = (a(334), B.contactSection),
+        He = (a(334), B.contactSection),
         Fe = B.addressSection,
         Pe = B.phoneSection,
-        Le = (function (e) {
-          Object(p.a)(r, e);
-          var t = Object(A.a)(r);
+        Te = (function (e) {
+          Object(A.a)(r, e);
+          var t = Object(p.a)(r);
           function r() {
             return Object(d.a)(this, r), t.apply(this, arguments);
           }
@@ -7190,7 +7190,7 @@
                             "div",
                             { className: "contact-heading-img-div" },
                             n.a.createElement("img", {
-                              src: a(53)("./".concat(Ue.profile_image_path)),
+                              src: a(53)("./".concat(He.profile_image_path)),
                               alt: "",
                             })
                           ),
@@ -7203,7 +7203,7 @@
                                 className: "contact-heading-text",
                                 style: { color: e.text },
                               },
-                              Ue.title
+                              He.title
                             ),
                             n.a.createElement(
                               "p",
@@ -7212,7 +7212,7 @@
                                   "contact-header-detail-text subTitle",
                                 style: { color: e.secondaryText },
                               },
-                              Ue.description
+                              He.description
                             ),
                             n.a.createElement(Q, { theme: e }),
                             n.a.createElement(
@@ -7237,7 +7237,7 @@
                           n.a.createElement(
                             "div",
                             { className: "contact-heading-img-div" },
-                            n.a.createElement(He, { theme: e })
+                            n.a.createElement(Ue, { theme: e })
                           ),
                           n.a.createElement(
                             "div",
@@ -7305,8 +7305,8 @@
         ze =
           (a(335),
           (function (e) {
-            Object(p.a)(a, e);
-            var t = Object(A.a)(a);
+            Object(A.a)(a, e);
+            var t = Object(p.a)(a);
             function a() {
               return Object(d.a)(this, a), t.apply(this, arguments);
             }
@@ -7360,7 +7360,7 @@
             );
           })(r.Component));
       a(336);
-      function Te(e) {
+      function Le(e) {
         var t = e.repo,
           a = e.theme;
         return n.a.createElement(
@@ -7435,8 +7435,8 @@
         Qe =
           (a(337),
           (function (e) {
-            Object(p.a)(a, e);
-            var t = Object(A.a)(a);
+            Object(A.a)(a, e);
+            var t = Object(p.a)(a);
             function a() {
               return Object(d.a)(this, a), t.apply(this, arguments);
             }
@@ -8132,8 +8132,8 @@
             );
           })(r.Component)),
         Ve = (function (e) {
-          Object(p.a)(a, e);
-          var t = Object(A.a)(a);
+          Object(A.a)(a, e);
+          var t = Object(p.a)(a);
           function a() {
             return Object(d.a)(this, a), t.apply(this, arguments);
           }
@@ -8189,7 +8189,7 @@
                       "div",
                       { className: "repo-cards-div-main" },
                       Re.data.map(function (t) {
-                        return n.a.createElement(Te, { repo: t, theme: e });
+                        return n.a.createElement(Le, { repo: t, theme: e });
                       })
                     ),
                     n.a.createElement(V, {
@@ -8212,8 +8212,8 @@
           );
         })(r.Component),
         Ge = (function (e) {
-          Object(p.a)(a, e);
-          var t = Object(A.a)(a);
+          Object(A.a)(a, e);
+          var t = Object(p.a)(a);
           function a() {
             return Object(d.a)(this, a), t.apply(this, arguments);
           }
@@ -8275,7 +8275,7 @@
                                 path: "/education",
                                 render: function (t) {
                                   return n.a.createElement(
-                                    pe,
+                                    Ae,
                                     Object.assign({}, t, {
                                       theme: e.props.theme,
                                     })
@@ -8297,7 +8297,7 @@
                                 path: "/contact",
                                 render: function (t) {
                                   return n.a.createElement(
-                                    Le,
+                                    Te,
                                     Object.assign({}, t, {
                                       theme: e.props.theme,
                                     })
@@ -8377,7 +8377,7 @@
                                 path: "/education",
                                 render: function (t) {
                                   return n.a.createElement(
-                                    pe,
+                                    Ae,
                                     Object.assign({}, t, {
                                       theme: e.props.theme,
                                     })
@@ -8399,7 +8399,7 @@
                                 path: "/contact",
                                 render: function (t) {
                                   return n.a.createElement(
-                                    Le,
+                                    Te,
                                     Object.assign({}, t, {
                                       theme: e.props.theme,
                                     })
@@ -8439,7 +8439,7 @@
           headerColor: "#fca31177",
         };
       function Je() {
-        var e = Object(L.a)([
+        var e = Object(T.a)([
           "\n  *,\n  *::after,\n  *::before {\n    box-sizing: border-box;\n  }\n\n  body {\n    align-items: center;\n    background: ",
           ";\n    color: ",
           ";\n    display: flex;\n    // flex-direction: column;\n    // justify-content: center;\n    // height: 100vh;\n    // margin: 0;\n    // padding: 0;\n    font-family: BlinkMacSystemFont, -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;\n    transition: all 0.25s linear;\n  }",
@@ -8497,4 +8497,4 @@
   ]),
   [[129, 1, 2]],
 ]);
-//# sourceMappingURL=main.0761bcb3.chunk.js.map
+//# sourceMappingURL=main.fceb641c.chunk.js.map
