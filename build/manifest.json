@@ -1,5 +1,5 @@
 {
-  "name": "masterPortfolio",
+  "name": "sebasmos",
   "background_color": "#ffffff",
   "display": "standalone",
   "icons": [
@@ -40,7 +40,7 @@
       "density": "4.0"
     }
   ],
-  "short_name": "masterPortfolio",
+  "short_name": "sebasmos",
   "start_url": ".",
   "theme_color": "#000000"
 }

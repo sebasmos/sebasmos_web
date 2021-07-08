@@ -1,24 +1,7 @@
 {
   "files": {
-<<<<<<< HEAD
-    "main.css": "/static/css/main.2fd4cd96.chunk.css",
-    "main.js": "/static/js/main.1e2bf09d.chunk.js",
-    "main.js.map": "/static/js/main.1e2bf09d.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.57d78ab3.js",
-    "runtime-main.js.map": "/static/js/runtime-main.57d78ab3.js.map",
-    "static/js/2.8471fef0.chunk.js": "/static/js/2.8471fef0.chunk.js",
-    "static/js/2.8471fef0.chunk.js.map": "/static/js/2.8471fef0.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.213b98cf322a9c26fa7fefa24e76c359.js": "/precache-manifest.213b98cf322a9c26fa7fefa24e76c359.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.2fd4cd96.chunk.css.map": "/static/css/main.2fd4cd96.chunk.css.map",
-    "static/media/index.css": "/static/media/Montserrat-Regular.ee653992.ttf",
-    "static/media/address_image.svg": "/static/media/address_image.3b021f8f.svg",
-    "static/media/aess.jpg": "/static/media/aess.e8ed16ea.jpg",
-    "static/media/ai_india.png": "/static/media/ai_india.af7b5ad4.png",
-=======
+
     "main.css": "/static/css/main.c7ec043a.chunk.css",
-<<<<<<< HEAD
     "main.js": "/static/js/main.80a08867.chunk.js",
     "main.js.map": "/static/js/main.80a08867.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.c149e97c.js",
@@ -27,22 +10,11 @@
     "static/js/2.616967d9.chunk.js.map": "/static/js/2.616967d9.chunk.js.map",
     "index.html": "/index.html",
     "precache-manifest.941392980e7b1115543c7e85e9ec4c94.js": "/precache-manifest.941392980e7b1115543c7e85e9ec4c94.js",
-=======
-    "main.js": "/static/js/main.0ee6b43e.chunk.js",
-    "main.js.map": "/static/js/main.0ee6b43e.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.c149e97c.js",
-    "runtime-main.js.map": "/static/js/runtime-main.c149e97c.js.map",
-    "static/js/2.677a03b5.chunk.js": "/static/js/2.677a03b5.chunk.js",
-    "static/js/2.677a03b5.chunk.js.map": "/static/js/2.677a03b5.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.fb76a99225d8ac1eac27f7f359749fb2.js": "/precache-manifest.fb76a99225d8ac1eac27f7f359749fb2.js",
->>>>>>> 55888b8a35d0ea7c0f6128a0af3d914abf254393
     "service-worker.js": "/service-worker.js",
     "static/css/main.c7ec043a.chunk.css.map": "/static/css/main.c7ec043a.chunk.css.map",
     "static/media/index.css": "/static/media/Montserrat-Regular.ee653992.ttf",
     "static/media/address_image.svg": "/static/media/address_image.3b021f8f.svg",
     "static/media/aess.jpg": "/static/media/aess.e8ed16ea.jpg",
->>>>>>> a3c0efe7dbfaacefbc551fbe13858d40a860a742
     "static/media/aiesec.jpg": "/static/media/aiesec.461a7719.jpg",
     "static/media/althaia.jpg": "/static/media/althaia.826e49be.jpg",
     "static/media/animated_ashutosh.png": "/static/media/animated_ashutosh.6c8410d0.png",
@@ -99,16 +71,9 @@
     "static/media/unicaucalogo.jpeg": "/static/media/unicaucalogo.c2ab99f9.jpeg"
   },
   "entrypoints": [
-<<<<<<< HEAD
     "static/js/runtime-main.57d78ab3.js",
     "static/js/2.8471fef0.chunk.js",
     "static/css/main.2fd4cd96.chunk.css",
     "static/js/main.1e2bf09d.chunk.js"
-=======
-    "static/js/runtime-main.c149e97c.js",
-    "static/js/2.616967d9.chunk.js",
-    "static/css/main.c7ec043a.chunk.css",
-    "static/js/main.80a08867.chunk.js"
->>>>>>> a3c0efe7dbfaacefbc551fbe13858d40a860a742
   ]
 }
