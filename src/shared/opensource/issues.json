@@ -1,0 +1,47 @@
+{
+  "closed": 1,
+  "data": [
+    {
+      "id": "MDU6SXNzdWU5MTM2Mjg2NjM=",
+      "closed": false,
+      "title": "Compatibility with Google Colab",
+      "createdAt": "2021-06-07T14:44:29Z",
+      "url": "https://github.com/opendatacube/datacube-core/issues/1100",
+      "number": 1100,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "datacube-core",
+        "url": "https://github.com/opendatacube/datacube-core",
+        "owner": {
+          "login": "opendatacube",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/26125288?v=4",
+          "url": "https://github.com/opendatacube"
+        }
+      }
+    },
+    {
+      "id": "MDU6SXNzdWU2OTA2OTEyNTA=",
+      "closed": true,
+      "title": " logger.error('%', 1, stack_info=True)\r\nMessage: '%'\r\nArguments: (1,)\r\n",
+      "createdAt": "2020-09-02T03:49:13Z",
+      "url": "https://github.com/spyder-ide/spyder/issues/13690",
+      "number": 13690,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "spyder",
+        "url": "https://github.com/spyder-ide/spyder",
+        "owner": {
+          "login": "spyder-ide",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/1284937?v=4",
+          "url": "https://github.com/spyder-ide"
+        }
+      }
+    }
+  ],
+  "open": 1,
+  "totalCount": 2
+}
