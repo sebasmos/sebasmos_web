@@ -1,66 +1,53 @@
 
-## For full deployment run the following commands, but intend to avoid `git init`
 
-git remote remove origin
-rm -rf .git
-npm install && npm run build
+# Updating ideas 
+#### Update: 
+`git clone https://github.com/sebasmos/sebasmos_web.git`
+`npm install && npm run build` 
+`npm start or npm run start ` and edit on this stage
+To store changes then execute the following after deleting `node_modules/`, `build/` & `lock`
+`git add .` 
+`git commit -m "updating website"`
+`git push -u origin master `
+`git pull origin master`
+`git pull --allow-unrelated-histories origin master`
+`git pull origin master`
 
-cd build/
-git init
-git remote add origin https://github.com/sebasmos/sebasmos.github.io
-git add .
-git commit -m "deploying"
-git push -u origin master
---end..
-git pull origin master
-git pull --allow-unrelated-histories origin master
-git pull origin master
 
-#### Updating info: 
-git clone https://github.com/sebasmos/sebasmos_web.github.io
-npm install && npm run build
-npm start or npm run start 
+### Deploy:
 
-### pushing changes onto storage repository: 
-git add .
-git commit -m "updating"
-git push -u origin master 
-git pull origin master
-git pull --allow-unrelated-histories origin master
-git pull origin master
+`git remote remove origin`
+`rm -rf .git`
+`npm install && npm run build`
+`cd build/`
+`git init`
+`git remote add origin https://github.com/sebasmos/sebasmos.github.io`
+`git add .`
+`git commit -m "deploying"`
+`git push -u origin master`
+--In case needed: ..
+`git pull origin master`
+`git pull --allow-unrelated-histories origin master`
+`git pull origin master`
 
------end-------------------------------
 
-npm install && npm run build # update index.html & manifest
-cd build/
-git init # try to avoid this
-git remote add origin https://github.com/sebasmos/sebasmos.github.io.git
-git add .
-git commit -m "deploying from stractch"
-git push -u origin master
-git push origin master
-git pull
-git pull origin master
-git pull --allow-unrelated-histories origin master
-git pull origin master
-git add .
-git commit -m "done"
-git push -u origin master
-cd ..
-
----
-
-### Ideally only use this commands, but making sure that the `build/` folder is also included and updated
-
-npm install && npm run build
-git init
-git remote add origin https://github.com/sebasmos/sebasmos.github.io.git
-git remote set-url origin https://github.com/sebasmos/sebasmos.github.io.git
-git add .
-git commit -m "done"
-git push -u origin master
-git pull
-git push origin master
+### Other error corrections: 
+`npm install && npm run build # update index.html & manifest`
+`cd build/`
+`git init # try to avoid this`
+`git remote add origin https://github.com/sebasmos/sebasmos.github.io.git`
+`git add .`
+`git commit -m "deploying from stractch"`
+`git push -u origin master`
+`git push origin master`
+`git pull`
+`git pull origin master`
+`git pull --allow-unrelated-histories origin master`
+`git pull origin master`
+`git add .`
+`git commit -m "done"`
+`git push -u origin master`
+`cd ..`
 
 ### Errors
 
