@@ -1,0 +1,37 @@
+ git add .
+ git commit -m ".2"
+ git remote add origin https://github.com/sebasmos/sebasmos.github.io.git
+ git push -u origin master
+ 
+
+ Tru to run only this:
+ -----------------
+ npm install && npm run build 
+ cd build/
+ git init
+ git remote add origin https://github.com/sebasmos/sebasmos.github.io.git
+ git add .
+ git commit -m "deploying from stractch"
+ git push -u origin master
+ git push origin master
+ git pull
+ git pull origin master
+ git pull --allow-unrelated-histories origin master
+ git pull origin master
+ git add .
+ git commit -m "done"
+ git push -u origin master
+ cd ..
+ --------------------
+
+
+ npm install && npm run build 
+ git init
+ git remote add origin https://github.com/sebasmos/sebasmos.github.io.git
+ git remote set-url origin https://github.com/sebasmos/sebasmos.github.io.git
+ git add .
+ git commit -m "done"
+ git push -u origin master
+ git pull
+ git push origin master
+
