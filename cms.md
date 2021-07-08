@@ -2,9 +2,9 @@
 
 ---
 
-npm install && npm run build
+npm install && npm run build # update index.html & manifest
 cd build/
-git init
+git init # try to avoid this
 git remote add origin https://github.com/sebasmos/sebasmos.github.io.git
 git add .
 git commit -m "deploying from stractch"
