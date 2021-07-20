@@ -1,33 +1,28 @@
+# Updating ideas
 
-
-# Updating ideas 
-
-#### Update: 
+#### Update:
 
 `git clone https://github.com/sebasmos/sebasmos_web.git`
 
-`npm install && npm run build` 
+`npm install && npm run build`
 
-`npm start or npm run start ` and edit on this stage
+`npm start or npm run start` and edit on this stage
 
+To update github data, update Token.
 
-To update github data, update Token. 
+To store changes then execute the following after deleting `node_modules/`, `build/` & `lock` and make sure it compiles and runs before commit
 
-
-To store changes then execute the following after deleting `node_modules/`, `build/` & `lock`
-
-`git add .` 
+`git add .`
 
 `git commit -m "updating website"`
 
-`git push -u origin master `
+`git push -u origin master`
 
 `git pull origin master`
 
 `git pull --allow-unrelated-histories origin master`
 
 `git pull origin master`
-
 
 ### Deploy:
 
@@ -57,10 +52,7 @@ To store changes then execute the following after deleting `node_modules/`, `bui
 
 `git pull origin master`
 
-
-
-
-### Other error corrections: 
+### Other error corrections:
 
 `npm install && npm run build # update index.html & manifest`
 
@@ -94,37 +86,16 @@ To store changes then execute the following after deleting `node_modules/`, `bui
 
 `cd ..`
 
-
-
 ### Errors
-
-
 
 For some related errors check
 
-
-
 https://www.npmjs.com/package/webpack/v/4.44.2
-
-
-
-
 
 ### Test locally
 
-
-
 `npm run start` or `npm start`
-
-
 
 ### Change favicon
 
-
-
 https://www.favicon-generator.org/
-
-
-
-
-
